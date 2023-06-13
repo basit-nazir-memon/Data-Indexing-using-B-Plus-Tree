@@ -1,0 +1,1000 @@
+4001	Farhana Ismaili	13-Jun-82	F	26-Aug-00	House No. 555 S#  71 Kusar coloney Multan	F.Sc.
+4002	Aga Jan Paracha	15-Feb-82	M	29-Aug-00	Ho. #  102 St. No. 34 Bhatta Karachi	Fsc
+4003	Rashid Haque	15-Mar-82	M	3-Aug-00	house no. 416 Street #  30 Main sadar Karachi	F.Sc.
+4004	Alina Jan	17-Nov-82	F	6-Aug-00	ho. #  731 s no. 25 Jalsa gha Sadiqabad	Fsc
+4005	Adul Qudoos Ehsan	20-Aug-81	M	10-Aug-00	Ho. No.45 St. no.20  Sihaal Multan	A level
+4006	Khurshid Sherazi	20-Aug-81	F	13-Aug-00	H No.592 St. no.83  yadgaar KARACHI	HSSC
+4007	Zarar Zaidi	22-Apr-81	M	16-Aug-00	Ho. no.906 St. # 79  Factory road Usman Kot	A level
+4008	Najeeb Abdul Haseeb Kharasani	22-Jan-80	M	20-Aug-00	h# 221 Street No.74  Goth jumman KHR	A-Level
+4009	Babra Usmani	24-Jan-80	F	23-Aug-00	House # 768 Street No.69  Tool factory coloney karachi	FSc
+4010	Sikandar AAqil	24-Oct-80	M	26-Aug-00	H# 82 st. # 33  Pind dadu Karachi	A-Level
+4011	Baqir Ghazanfar Hussaini	27-Jun-80	M	29-Aug-00	house #  397 S#  28 Yaseen chowk karachi	FSc
+4012	Manahil Rayyan Ibraheem Laghari	27-Jun-82	F	4-Aug-00	House No. 943 S#  23 Daniyaal town Mirpur Khas	F.Sc.
+4013	Kamal Bhatti	29-Mar-82	M	7-Aug-00	Ho. #  258 Street #  19 Haider road Multan	Fsc
+4014	Tabraiz Fakhir Haque	29-Nov-82	M	10-Aug-00	house no. 573 s no. 82 Gulshan Iqbal Karachi	F.Sc.
+4015	Maheera Yaseen	2-Dec-82	F	13-Aug-00	ho. #  119 s#  77 Buliyan wali Usman Kot	Fsc
+4016	Umar Haque	4-Aug-81	M	17-Aug-00	Ho. No. 434 St. no. 73 sea view housing society Khr	A level
+4017	Fariha Butt	5-May-81	F	20-Aug-00	H No.748 S No.36  Defense Phase 1 KARACHI	HSSC
+4018	Anwar Shazil Zaidi	7-May-81	M	23-Aug-00	Ho. no.295 S No.31  Chandi bazar Karachi	A level
+4019	Agha Haseeb Butt	7-Jan-81	M	26-Aug-00	h no.609 Street No.27  Samanabad KARACHI	HSSC
+4020	Mahpara Ansary	9-Oct-80	F	1-Aug-00	House # 924 st. # 22  PRC coloney karachi	FSc
+4021	Jibran Abdul Hameed	9-Oct-80	M	4-Aug-00	H# 239 st. # 85  Odean chowk Multan	A-Level
+4022	Sahir Ansary	11-Jul-80	M	7-Aug-00	house # 785 street no.80  Bhutto complex karachi	FSc
+4023	Zahida Laghari	12-Mar-82	F	11-Aug-00	House No. 100 Street #  76 Mitran walia Umer Kot	F.Sc.
+4024	Firdous Bhatti	14-Mar-82	M	14-Aug-00	Ho. #  414 Street #  71 Chand mari Mirpur Khas	Fsc
+4025	Sh. Islam Satti	14-Dec-82	M	17-Aug-00	house no. 961 s#  34 Goth jumman Karachi	F.Sc.
+4026	Qurat-ul-Ain Abdus Sammi	16-Aug-82	F	20-Aug-00	ho. #  275 St. no. 30 Khumar road Karachi	Fsc
+4027	Azam Shah	18-Sep-81	M	24-Aug-00	Ho. No. 590 street #  25 Pwd Coloney Khr	A level
+4028	Asma Waqas Pasha	19-May-81	F	27-Aug-00	H No.137 S No.20  Sultana abad KARACHI	HSSC
+4029	Mohammed Furqan Abbasi	21-Jan-81	M	1-Aug-00	Ho. no.451 Street No.84  Kusar coloney Multan	A level
+4030	Khalid Durrani	21-Feb-81	M	4-Aug-00	h no.766 St. No.79  New air port KARACHI	HSSC
+4031	Uzma Saeed	23-Oct-80	F	8-Aug-00	House # 312 st. # 74  Bunkhar gali Umer Kot	FSc
+4032	Mumtaz Abdullah	23-Jul-80	M	11-Aug-00	H# 627 street no.38  Eid gha Mirpur Khas	A-Level
+4033	Karam Ansary	25-Jul-80	M	14-Aug-00	house # 941 street no.33  sea view housing society karachi	FSc
+4034	Najia Gondal	26-Mar-80	F	17-Aug-00	h#  488 Street #  28 Noorpur Karachi	A-Level
+4035	Nazar Aun Haqqie	28-Dec-82	M	21-Aug-00	Ho. #  803 s#  24 College road Umer Kot	Fsc
+4036	Agha Rayyan Satti	28-Dec-82	M	24-Aug-00	house no. 117 s#  87 Service road Karachi	F.Sc.
+4037	Maheen Ali	1-Sep-82	F	27-Aug-00	ho. #  664 street #  82 Nai abadi Multan	Fsc
+4038	Ch. Yawar Shah	3-May-81	M	2-Aug-00	Ho. No. 978 S No. 77 Liaqat road Khr	A level
+4039	Zeba Azhar Chohan	3-May-81	F	5-Aug-00	H No. 293 S No. 73 Asif abad KARACHI	HSSC
+4040	Sheikh Sabir Baig	6-Feb-81	M	8-Aug-00	Ho. no.607 St. No.36  Daniyaal town Mirpur Khas	A level
+4041	Alam Haseeb Durrani	6-Oct-81	M	11-Aug-00	h no.154 st. # 31  Sukkan nala malir cantt KARACHI	HSSC
+4042	Noor-ul-Ain Kashif	8-Nov-80	F	15-Aug-00	House # 469 s no.27  Byaar Hyderabad	FSc
+4043	Jan Ghazi	8-Jul-80	M	18-Aug-00	H# 783 street no.22  Doley shah Umer Kot	A-Level
+4044	Nawabzada Fakhir Ansari	10-Mar-80	M	21-Aug-00	house # 330 Street # 85  Pwd Coloney karachi	FSc
+4045	Gul Imran Zarar Khattak	10-Apr-80	F	24-Aug-00	h# 644 St. # 81  Farooqia Multan	A-Level
+4046	Mouhammad Yusaf Ansari	13-Dec-82	M	28-Aug-00	Ho. #  959 s#  76  khr	Fsc
+4047	Ghazanfar Sehti	13-Sep-82	M	2-Aug-00	house no. 505 street #  71 Kala pul Karachi	F.Sc.
+4048	Nazima Hameed	15-Sep-82	F	5-Aug-00	ho. #  820 street #  35 Chittian hattian Mirpur Khas	Fsc
+4049	Shams-ul-Islam Kamal Sehti	17-Jun-82	M	8-Aug-00	House No. 135 S#  30 Amer Villas university road Karachi	F.Sc.
+4050	Shamim Haqqie	17-Feb-81	F	12-Aug-00	H No. 681 St. No. 25 Model town KARACHI	HSSC
+4051	Shams Baig	19-Feb-81	M	15-Aug-00	Ho. no. 996 St. No. 89 Mitran walia Umer Kot	A level
+4052	Alina Qureshi	20-Nov-81	F	18-Aug-00	h no.310 s no.84  Chand mari Mirpur Khas	HSSC
+4053	Muslim Kazmi	22-Jul-80	M	22-Aug-00	House # 857 street no.79  Jinnah complex karachi	FSc
+4054	Mouhammed Fakhar Niazi	22-Aug-80	M	25-Aug-00	H# 171 St. no.75  Zeenat block KHR	A-Level
+4055	Kalsoom Ghani	24-Apr-80	F	28-Aug-00	house # 486 St. # 38  Purani Taal Umer Kot	FSc
+4056	Shk. Jabir Niazi	24-Dec-80	M	2-Aug-00	h# 33 s# 33  Asif abad KHR	A-Level
+4057	Rayyan Haqq	26-Sep-82	M	6-Aug-00	Ho. # 347 street # 28  Kumria Quetta	Fsc
+4058	Mohammad Rabbi Awan	27-Sep-82	M	9-Aug-00	house no. 662 street #  24 Illyas abad Hyderabad	F.Sc.
+4059	Shan Haqq	29-Jun-82	M	12-Aug-00	ho. #  976 S#  87 Goth Yousaf khr	Fsc
+4060	Nirma Hamid	2-Feb-82	F	15-Aug-00	House No. 523 St. No. 82 Eid gha Mirpur Khas	F.Sc.
+4061	Ghulam Mustafa Sajid Namani	2-Feb-81	M	19-Aug-00	H No. 838 St. No. 78 Lalu khait KARACHI	HSSC
+4062	Haroon Sherazi	4-Nov-81	M	22-Aug-00	Ho. no. 152 s no. 73 Sultan coloney Khr	A level
+4063	Maria Qureshi	5-Jul-81	F	25-Aug-00	h no.699 street no.36  College road Umer Kot	HSSC
+4064	Syed Yaseen Khanzada	7-Aug-81	M	28-Aug-00	Ho. No.13 St. no.32  Kala pul Khr	A level
+4065	Mudassir Ahsan	7-Apr-80	M	3-Aug-00	H# 328 St. # 27  Purana shehar Quetta	A-Level
+4066	Mahnoor AAmer	9-Dec-80	F	6-Aug-00	house # 874 s# 90  Karki Hyderabad	FSc
+4067	Firdous Yusaf Niazi	9-Jan-80	M	9-Aug-00	h# 189 Street No.86  Model town KHR	A-Level
+4068	Aftab Ismaili	11-Sep-80	M	12-Aug-00	House # 504 street # 81  Daniyaal town Mirpur Khas	FSc
+4069	Sammi Paracha	12-Jun-82	M	16-Aug-00	house no. 50 S#  76 Saat meel Quetta	F.Sc.
+4070	Zishan Annan Haqq	14-Jun-82	M	19-Aug-00	ho. #  365 S#  40 Jinnah complex khr	Fsc
+4071	Qudsia Mujtaba	16-Feb-82	F	22-Aug-00	House No. 679 St. No. 35 Doley shah Umer Kot	F.Sc.
+4072	Zamir Shams Namani	16-Nov-81	M	26-Aug-00	H No. 226 s no. 30 Mazar e Quaid KARACHI	HSSC
+4073	Mouhammed Nazir Sherazi	18-Nov-81	M	29-Aug-00	Ho. no. 540 s no. 25 Zeeshan coloney Township Khr	A level
+4074	Eman Ramzan Badar Zaidi	18-Aug-81	F	3-Aug-00	h no. 855 St. no. 89 Kotlia Hyderabad	HSSC
+4075	Rana Anwar Khanzada	21-Apr-81	M	6-Aug-00	Ho. No.170 St. # 84  Landhi Khr	A level
+4076	Ghazanfar Zamir	21-Apr-80	M	10-Aug-00	H# 716 St. # 79  Jaamia Masjid road Sibbi	A-Level
+4077	Zil-e-Huma Akram	23-Jan-80	F	13-Aug-00	house # 31 Street No.75  Surahi bazar Quetta	FSc
+4078	Jameel Sheharyar Hussaini	23-Sep-80	M	16-Aug-00	h# 345 street # 38  Lalu khait KHR	A-Level
+4079	Syyed Iqbal Laghari	25-Oct-80	M	19-Aug-00	House # 892 st. # 33  Mitran walia Umer Kot	FSc
+4080	Qirat Raja Masud Hussaini	25-Jun-82	F	23-Aug-00	house no.206 S# 29  Green town Karachi	F.Sc.
+4081	Momd. Hussain Haque	28-Mar-82	M	26-Aug-00	ho. #  521 Street #  92 Gulshan Abad khr	Fsc
+4082	Moeena Zakir	1-Mar-82	F	29-Aug-00	House No. 68 Street #  87 Kamalia Hyderabad	F.Sc.
+4083	Niaz Haque	1-Nov-82	M	3-Aug-00	Ho. #  382 s no. 83 Liaqat abad khr	Fsc
+4084	Aslam Qudoos Butt	3-Aug-81	M	7-Aug-00	Ho. no. 697 St. no. 78 Town ship near Barkat chowk Khr	A level
+4085	Kausar Zaidi	3-Aug-81	F	10-Aug-00	h no. 243 St. no. 41 Kumria Quetta	HSSC
+4086	Danish Butt	5-May-81	M	13-Aug-00	Ho. No. 558 S No. 37 sea site Khr	A level
+4087	Zamir Arif	6-Jan-80	M	17-Aug-00	H# 872 Street No.32  post office Wahari	A-Level
+4088	Samia Rizwan	8-Jan-80	F	20-Aug-00	house # 419 Street No.27  Biyaal Sibbi	FSc
+4089	Shahzor Ansary	8-Oct-80	M	23-Aug-00	h# 734 st. # 90  Mazar e Quaid KHR	A-Level
+4090	Choudhary Masood Laghari	10-Jun-80	M	26-Aug-00	House # 48 S# 86  Lakhan Hyderabad	FSc
+4091	Noor-ul-Ain Mouhammad Shakir Bhatti	10-Jul-82	F	1-Aug-00	house no.595 street no.81  Jail road Karachi	F.Sc.
+4092	Nazeer Laghari	12-Mar-82	M	4-Aug-00	ho. # 909 Street # 76  Shah latif town khr	Fsc
+4093	Mahjabeen Amer	15-Nov-82	F	7-Aug-00	House No. 224 s no. 40 Purana shehar Quetta	F.Sc.
+4094	Mouhammad Noor Haque	15-Dec-82	M	10-Aug-00	Ho. #  538 s#  35 Defense phase III khr	Fsc
+4095	Mujtaba Tanveer Pasha	17-Aug-81	M	14-Aug-00	Ho. no. 85 St. no. 30 Mitthian Wahari	A level
+4096	Faiqa Shah	17-May-81	F	17-Aug-00	h no. 400 S No. 94 Afangi block Sibbi	HSSC
+4097	Sajid AAdil Butt	19-May-81	M	20-Aug-00	Ho. No. 714 S No. 89 Green town Khr	A level
+4098	Abdul Basit Mustafa	20-Jan-81	M	23-Aug-00	H No.261 Street No.84  Byaar Hyderabad	HSSC
+4099	Tahira Saeed Butt	22-Oct-80	F	27-Aug-00	house # 575 st. # 80  Kishwar heights university road karachi	FSc
+4100	Mirza Abdul Hannan Ansary	22-Oct-80	M	1-Aug-00	h# 890 st. # 43  Dubai town KHR	A-Level
+4101	Qamar Gondal	24-Jul-80	M	4-Aug-00	House # 436 street no.38  Chan chirag Quetta	FSc
+4102	Fazila Ansary	24-Mar-82	F	8-Aug-00	house no.751 Street # 34  Tariq road Karachi	F.Sc.
+4103	Munir Abdul Wasay Satti	26-Mar-82	M	11-Aug-00	ho. # 66 Street # 29  Samanabad khr	Fsc
+4104	Kaneez Fatima Ikram	29-Dec-82	F	14-Aug-00	House No. 612 s#  92 Jaamia Masjid road Sibbi	F.Sc.
+4105	Fazal Sammi Satti	29-Aug-82	M	17-Aug-00	Ho. #  927 St. no. 88 Kashmir block gulshan iqbal khr	Fsc
+4106	M. Zishan Chohan	2-Sep-81	M	21-Aug-00	Ho. no. 241 street #  83 Kachi abadi Lyyah	A level
+4107	Yasmin Shah	2-May-81	F	24-Aug-00	h no. 788 S No. 78 Sukkhan abad Wahari	HSSC
+4108	Chodhary Shams Chohan	4-Jan-81	M	27-Aug-00	Ho. No. 103 Street No. 41 Jail road Khr	A level
+4109	Immad Qudoos	4-Feb-81	M	1-Aug-00	H No. 417 St. No. 37 Ghosia masjid chwok Quetta	HSSC
+4110	Tehmina Ehsan	7-Oct-80	F	5-Aug-00	house # 732 st. # 32  Park road Lyyah	FSc
+4111	Muhammad Arsalan Sehti	7-Jul-80	M	8-Aug-00	h# 278 street no.27  Sadiq Abad KHR	A-Level
+4112	Jameel Abdul kareem Haq	9-Jul-80	M	11-Aug-00	House # 593 street no.91  Darian Sibbi	FSc
+4113	Aneela Sehti	9-Apr-80	F	14-Aug-00	H# 907 St. # 86   KHR	A-Level
+4114	Ibrahim Chatta	11-Dec-82	M	18-Aug-00	ho. # 454 s# 81  New air port khr	Fsc
+4115	Gul Yaar Muhammad	13-Dec-82	M	21-Aug-00	House No.769 s# 45  post office Wahari	F.Sc.
+4116	Shammaa Chatta	14-Sep-82	F	24-Aug-00	Ho. #  83 street #  40 Kishwar heights university road khr	Fsc
+4117	Mustamsir Kazmi	16-May-81	M	28-Aug-00	Ho. no. 630 S No. 35 sea view housing society Khr	A level
+4118	Shabir Khan	16-Jun-81	M	2-Aug-00	h no. 944 S#  31 Karkhana road Lyyah	HSSC
+4119	Aneesa Kazmi	18-Feb-81	F	5-Aug-00	Ho. No. 259 St. No. 94 Tariq road Khr	A level
+4120	Baber Mustamsir	18-Oct-81	M	8-Aug-00	H No. 805 st. #  89 Mandi Sibbi	HSSC
+4121	Gul Zameer	20-Jul-80	F	12-Aug-00	house #  120 street no. 85 Bara bazar Thata	FSc
+4122	Shk. Sameer Niazi	21-Jul-80	M	15-Aug-00	h# 435 street no.80  Kasmmir market Gulshan-e-Iqbal KHR	A-Level
+4123	Munir Kareem Haq	23-Apr-80	M	18-Aug-00	House # 981 St. # 43  Mitthian Wahari	FSc
+4124	Malika Awan	23-Dec-80	F	21-Aug-00	H# 296 s# 38  yadgaar KHR	A-Level
+4125	Sammi Safi Haq	25-Dec-82	M	25-Aug-00	ho. # 610 s# 34  Sukkan nala malir cantt khr	Fsc
+4126	Zafar Mujahid	27-Sep-82	M	28-Aug-00	House No.157 street # 29  Hamdarad road Lyyah	F.Sc.
+4127	Mahnoor Namani	27-May-82	F	2-Aug-00	Ho. # 471 S No.92  Tool factory coloney khr	Fsc
+4128	Mehmood Zil-e-Ali Kiyyani	1-Jun-82	M	5-Aug-00	house no. 786 S#  88 kurang nala Sibbi	F.Sc.
+4129	Aun Nazar Qureshi	1-Feb-81	M	9-Aug-00	h no. 101 St. No. 83  Thata	HSSC
+4130	Qudsia Kazmi	3-Oct-81	F	12-Aug-00	Ho. No. 647 st. #  46  Khr	A level
+4131	Sajid Sammi	3-Nov-81	M	15-Aug-00	H No. 962 s no. 42 Main workshop Wahari	HSSC
+4132	Sana Shujaat	5-Jul-81	F	18-Aug-00	Ho. no. 276 street no. 37 Jaamia Masjid road Sibbi	A level
+4133	Mazhar Abuzar Niazi	6-Apr-80	M	22-Aug-00	h# 823 St. # 32  Amer Villas university road KHR	A-Level
+4134	Muhammad Nabeel Ismaili	8-Apr-80	M	25-Aug-00	House # 137 St. # 96  Kachi abadi Lyyah	FSc
+4135	Atra Syed Zameer Awan	8-Dec-80	F	28-Aug-00	H# 452 s# 91  Defense Phase 1 KHR	A-Level
+4136	Sh. Munnawar Haqq	10-Sep-82	M	3-Aug-00	ho. # 999 street # 86  GPO colony khr	Fsc
+4137	Aslam Muazzum	12-Sep-82	M	6-Aug-00	House No.313 street # 82  Dehri Thata	F.Sc.
+4138	Huma Namani	12-Jun-82	F	9-Aug-00	Ho. # 628 S# 45  PRC coloney khr	Fsc
+4139	Waqar Sherazi	15-Feb-82	M	12-Aug-00	house no. 174 St. No. 40 Zikria Wahari	F.Sc.
+4140	Mohammed Barkat Namani	15-Mar-81	M	16-Aug-00	h no. 489 Street #  35 Landi Chishtian	HSSC
+4141	Sadia Nawabzada Jibran Khanzada	17-Nov-81	F	19-Aug-00	Ho. No. 803 s no. 31 Gulzar-e-Quaid Khr	A level
+4142	Jamil Niaz	17-Jul-81	M	22-Aug-00	H No. 350 street no. 94 Nizam pur Lyyah	HSSC
+4143	Syyed Mehmood Khanzada	19-Aug-81	M	25-Aug-00	Ho. no. 665 St. no. 89 Goth jumman Khr	A level
+4144	Jamil Usmani	19-Apr-80	M	29-Aug-00	h#  979 St. #  85 Defense Phase IV KHR	A-Level
+4145	Saleem Rahmat Ismaili	22-Jan-80	M	3-Aug-00	House # 526 Street No.48  Karimabad Thata	FSc
+4146	Zil-e-Huma Hussaini	22-Jan-80	F	6-Aug-00	H# 840 Street No.43  Sultana abad KHR	A-Level
+4147	Rashid Kashif	24-Sep-80	M	9-Aug-00	house # 155 street # 39  Shehar bazar Wahari	FSc
+4148	Rahat Tanveer	26-Jun-82	M	13-Aug-00	House No.469 S# 34  Ramzania Chishtian	F.Sc.
+4149	Zara Haque	26-Jun-82	F	16-Aug-00	Ho. # 16 S# 97  Gulistan coloney khr	Fsc
+4150	Ibraheem Ghulam Mustafa Paracha	28-Mar-82	M	19-Aug-00	house no.331 Street # 93  Jamia masjid chowk Lyyah	F.Sc.
+4151	Mujtaba Zaidi	29-Nov-81	M	23-Aug-00	h no. 645 s no. 88 Niazi town Sadiqabad	HSSC
+4152	Samia Hafiz Rehan Sherazi	2-Nov-81	F	26-Aug-00	Ho. No. 192 s no. 83 Race course road Khr	A level
+4153	Saaleh Hamid	2-Aug-81	M	29-Aug-00	H No. 506 St. no. 47 Mutian wala Thata	HSSC
+4154	Suleman Hayyat Kharasani	4-Apr-81	M	3-Aug-00	Ho. no. 821 St. #  42 Service road Khr	A level
+4155	Sageer Usmani	4-May-80	M	7-Aug-00	h#  368 S No. 37 Zeenat block KHR	A-Level
+4156	Bulbul Sheharyar Kharasani	6-Jan-80	M	10-Aug-00	House #  682 Street No. 33 Cement factory coloney Chishtian	FSc
+4157	Midhat Hussaini	7-Sep-80	F	13-Aug-00	H# 997 street # 96  Asif abad KHR	A-Level
+4158	Shabir Ayyaz	9-Oct-80	M	16-Aug-00	house # 543 st. # 91  Akbar masjid Lyyah	FSc
+4159	Zamir AAmer	11-Jun-82	M	20-Aug-00	House No.858 S# 86  Bakra mandi Sadiqabad	F.Sc.
+4160	Khola Shazil Haque	11-Mar-82	F	23-Aug-00	Ho. # 172 Street # 50  Goth Yousaf khr	Fsc
+4161	Sahibzada AAmir Pasha	13-Mar-82	M	26-Aug-00	house no.719 Street # 45  Sherazia coloney Thata	F.Sc.
+4162	Raza Haque	13-Nov-82	M	29-Aug-00	ho. # 34 s no.40  Pwd Coloney khr	Fsc
+4163	Bushra Butt	16-Aug-81	F	4-Aug-00	Ho. No. 348 St. no. 36 Sultan coloney Khr	A level
+4164	Farzan Muazzam	16-Aug-81	M	7-Aug-00	H No. 663 St. no. 99 Dhamiyal Chishtian	HSSC
+4165	Abuzar Butt	18-May-81	M	10-Aug-00	Ho. no. 209 S No. 94 Kala pul Khr	A level
+4166	Raja Annan Ansary	18-Jan-80	M	14-Aug-00	h#  524 Street No. 90 Gulistan e Johar KHR	A-Level
+4167	Ghulam Mustafa Mehmood Kharasani	20-Jan-80	M	17-Aug-00	House #  838 Street No. 85 Cantt. road Sadiqabad	FSc
+4168	Qutab-ud-Din Haqqie	21-Oct-80	M	20-Aug-00	H# 385 st. # 48  Landi Chishtian	A-Level
+4169	Aga Jamil Shah	23-Jun-80	M	23-Aug-00	house # 700 S# 44  Race course road karachi	FSc
+4170	Hajira Sheik Salman Chohan	25-Jul-82	F	27-Aug-00	House No.14 street no.39  sea site Karachi	F.Sc.
+4171	Khurram Amer	25-Mar-82	M	1-Aug-00	Ho. # 561 Street # 34  Jalsa gha Sadiqabad	Fsc
+4172	Tipu Muazzum Durrani	27-Dec-82	M	4-Aug-00	house no.875 s# 98  Zeenat block Karachi	F.Sc.
+4173	Uzma Jaffery	27-Dec-82	F	7-Aug-00	ho. # 190 s# 93  Karimabad Thata	Fsc
+4174	Pervaiz Yosaf Durrani	1-Aug-81	M	11-Aug-00	Ho. No. 736 St. no. 88 Factory road Usman Kot	A level
+4175	Zareen Ansari	1-May-81	F	14-Aug-00	H No. 51 S No. 83 Bander road KARACHI	HSSC
+4176	Yawar Azmat	3-May-81	M	17-Aug-00	Ho. no. 366 S No. 47 Ramzania Chishtian	A level
+4177	Abdus Sammi Ansari	3-Feb-81	M	20-Aug-00	h no. 912 St. No. 42 Goth Yousaf KARACHI	HSSC
+4178	Farha Sehti	5-Oct-80	F	24-Aug-00	House #  227 st. #  37 Defense phase III karachi	FSc
+4179	Mohammed Shabi Haqqie	5-Oct-80	M	27-Aug-00	H#  541 st. #  1 Niazi town Sadiqabad	A-Level
+4180	Uhad Sehti	8-Jul-80	M	1-Aug-00	house # 88 street no.96  Sultan coloney karachi	FSc
+4181	Rizwana Chatta	10-Mar-82	F	5-Aug-00	House No.402 Street # 91  Green town Karachi	F.Sc.
+4182	Immad Abdus Sattar	10-Dec-82	M	8-Aug-00	Ho. # 717 s# 87  Buliyan wali Usman Kot	Fsc
+4183	Imran Chatta	12-Dec-82	M	11-Aug-00	house no.32 s# 50  Gulistan e Johar Karachi	F.Sc.
+4184	Razia Jaffery	12-Aug-82	F	14-Aug-00	ho. # 578 St. no.45  Cement factory coloney Chishtian	Fsc
+4185	Abdur Rahim Yousaf Khan	14-May-81	M	18-Aug-00	Ho. No.893 S No.41  Chandi bazar Karachi	A level
+4186	Nida Kazmi	15-May-81	F	21-Aug-00	H No. 207 S No. 36 New Clifton KARACHI	HSSC
+4187	Mudassir Haroon	17-Feb-81	M	24-Aug-00	Ho. no. 754 St. No. 99 Bakra mandi Sadiqabad	A level
+4188	Shujaat Minhas	17-Oct-81	M	27-Aug-00	h no. 68 st. #  95 Jinnah complex KARACHI	HSSC
+4189	Sunera Arshad Khattak	19-Oct-80	F	2-Aug-00	House #  383 st. #  90 Kashmir block gulshan iqbal karachi	FSc
+4190	Najum Minhas	19-Jul-80	M	5-Aug-00	H#  930 street no. 85 Lohi pura Usman Kot	A-Level
+4191	Sikandar Zahid Sehti	21-Mar-80	M	8-Aug-00	house #  244 Street #  48 Zeeshan coloney Township karachi	FSc
+4192	Rija Iqbal	24-Apr-80	F	11-Aug-00	h# 559 St. # 44  Dhamiyal Chishtian	A-Level
+4193	Muamar Mumtaz	24-Dec-82	M	15-Aug-00	Ho. # 105 s# 39  Khumar road Karachi	Fsc
+4194	Yasin Chatta	26-Aug-82	M	18-Aug-00	house no.420 St. no.2  Jam kand Karachi	F.Sc.
+4195	Kalsoom Firdous Taimor Kiyyani	26-Sep-82	F	21-Aug-00	ho. # 734 street # 98  Cantt. road Sadiqabad	Fsc
+4196	Choudhary Abdul Malik Chatta	28-May-82	M	24-Aug-00	House No.281 S No.93  Lalu khait Karachi	F.Sc.
+4197	Umaima Kazmi	28-Feb-81	F	28-Aug-00	H No.596 St. No.88   KARACHI	HSSC
+4198	Akram AAmir	2-Feb-81	M	2-Aug-00	Ho. no. 910 St. No. 52 Shakrial Usman Kot	A level
+4199	Mouhammed Muzammil Kazmi	2-Oct-81	M	5-Aug-00	h no. 457 st. #  47 Gulshan Abad KARACHI	HSSC
+4200	Mounazza Ibraheem	4-Jul-81	F	9-Aug-01	House #  771 street no. 42 Sihaal Multan	FSc
+4201	Abdul Haseeb Faizan	4-Jul-81	M	12-Aug-01	H#  86 street no. 38 Noorpur Karachi	A-Level
+4202	Nafia Anjum Hussaini	6-Apr-81	F	15-Aug-01	house #  400 St. #  1 Town ship near Barkat chowk karachi	FSc
+4203	Sajid Ismaili	9-Dec-81	M	18-Aug-01	h# 947 s# 96  Garrizon Sadiqabad	A-Level
+4204	Abdul Mannan Paracha	9-Jan-83	M	22-Aug-01	Ho. # 262 Street No.92  Nai abadi Multan	Fsc
+4205	Hala Rana Annan Haqq	11-Sep-83	F	25-Aug-01	house no.576 street # 87  Main sadar Karachi	F.Sc.
+4206	Shahroze Jibran	11-May-83	M	28-Aug-01	ho. # 123 S No.50  Bara qabrustan Usman Kot	Fsc
+4207	Zameer Zaidi	13-Jun-83	M	2-Aug-01	House No.437 S# 46  Mazar e Quaid Karachi	F.Sc.
+4208	Adila Muneer Sherazi	13-Feb-82	F	6-Aug-01	H No.752 St. No.41  yadgaar KARACHI	HSSC
+4209	Sajid Zaidi	16-Nov-82	M	9-Aug-01	Ho. no. 299 s no. 4 Khasra Karachi	A level
+4210	Agha Faizan Khanzada	16-Nov-82	M	12-Aug-01	h no. 613 s no. 99 Shah latif town KARACHI	HSSC
+4211	Sibqat Mukhtar	18-Jul-82	F	15-Aug-01	Ho. No. 928 street no. 95 Dak ghar Sadiqabad	A level
+4212	Sameer Azam	18-Apr-81	M	19-Aug-01	H#  474 St. #  90 Farooqia Multan	A-Level
+4213	Wajida Hussaini	20-Apr-81	F	22-Aug-01	house #  789 St. #  53 Yaseen chowk karachi	FSc
+4214	Muhammad Shams Laghari	20-Jan-81	M	25-Aug-01	h#  103 Street No. 49 Mujahid block Usman Kot	A-Level
+4215	Sheik Muslim Abbasi	23-Sep-83	M	29-Aug-01	Ho. # 650 street # 44  Chittian hattian Mirpur Khas	Fsc
+4216	Fakhar Butt	25-Sep-83	M	3-Aug-01	house no.965 street # 39  Gulshan Iqbal Karachi	F.Sc.
+4217	Mahpara Fazal	25-Jun-83	F	6-Aug-01	ho. # 279 S# 3  Kamra chowk Karachi	Fsc
+4218	Asif Viqar-ul-Islam	27-Feb-83	M	9-Aug-01	House No.594 St. No.98  Lohi pura Usman Kot	F.Sc.
+4219	Ayesha Ansary	27-Mar-82	F	13-Aug-01	H No.140 Street # 93  Defense Phase 1 KARACHI	HSSC
+4220	Ibrahim Gondal	29-Nov-82	M	16-Aug-01	Ho. no.455 s no.89  Basti Multan	A level
+4221	Mouhammad Mustafa Bhatti	1-Jul-82	M	19-Aug-01	h no. 769 street no. 52 Samanabad KARACHI	HSSC
+4222	Mahjabeen Satti	3-Aug-82	F	22-Aug-01	Ho. No. 316 St. no. 47 Main sadar Khr	A level
+4223	Shabir Tufail	3-Apr-81	M	26-Aug-01	H#  631 St. #  43 City Road Mirpur Khas	A-Level
+4224	Yawar Shah	5-Jan-81	M	29-Aug-01	house #  945 Street No. 6 Bhutto complex karachi	FSc
+4225	Kashaf Kamal Qutab-ud-Din Chohan	5-Jan-81	F	3-Aug-01	h#  492 Street No. 1 Bhatta Karachi	A-Level
+4226	Mustamsir Shah	7-Sep-81	M	6-Aug-01	House #  806 street #  96 Shakrial Usman Kot	FSc
+4227	Soneel Ahmad Durrani	10-Jun-83	M	10-Aug-01	house no.121 S# 92  Goth jumman Karachi	F.Sc.
+4228	Sundas Abdul Ahad	10-Jun-83	F	13-Aug-01	ho. # 667 S# 55  Sihaal Multan	Fsc
+4229	Ch. Najeeb Durrani	12-Mar-83	M	16-Aug-01	House No.982 Street # 50  Sadiq Abad Karachi	F.Sc.
+4230	 Salim Ansari	12-Nov-82	F	20-Aug-01	H No.297 s no.46  Sultana abad KARACHI	HSSC
+4231	Sammi Muazzam Gondal	14-Nov-82	M	23-Aug-01	Ho. no.843 s no.41  Malik abad Mirpur Khas	A level
+4232	Sheik Zeeshan Ansari	14-Aug-82	M	26-Aug-01	h no.158 St. no.4  New air port KARACHI	HSSC
+4233	Mahreen Waqas	17-Apr-82	F	29-Aug-01	Ho. No. 472 St. #  0 Pind dadu Karachi	A level
+4234	Faizan Nabeel	17-May-81	M	4-Aug-01	H#  19 S No. 95 Koral Umer Kot	A-Level
+4235	Nawabzada Viqar Sehti	19-Jan-81	M	7-Aug-01	house #  333 Street No. 90 sea view housing society karachi	FSc
+4236	Zeenat Haqqie	19-Oct-81	F	10-Aug-01	h#  648 st. #  54 Haider road Multan	A-Level
+4237	Kabir Baig	21-Oct-81	M	13-Aug-01	House #  963 st. #  49 Khasra Karachi	FSc
+4238	Mouhammad Ubaid Chohan	24-Jun-83	M	17-Aug-01	house no.509 S# 44  Service road Karachi	F.Sc.
+4239	Sibqat Ahmad	24-Mar-83	F	20-Aug-01	ho. # 824 Street # 40  Railway line Mirpur Khas	Fsc
+4240	Ubaid Sheharyar Khan	26-Mar-83	M	23-Aug-01	House No.138 Street # 3  Kasmmir market Gulshan-e-Iqbal Karachi	F.Sc.
+4241	Shehla Jaffery	26-Dec-83	F	26-Aug-01	Ho. # 685 s# 98  Bhutto complex khr	Fsc
+4242	Sahibzada Abdul Basit Khan	28-Aug-82	M	1-Aug-01	Ho. no.999 St. no.93  Saidpur road Umer Kot	A level
+4243	Muamar Ansari	28-Aug-82	M	4-Aug-01	h no.314 St. no.57  Sukkan nala malir cantt KARACHI	HSSC
+4244	Umme Habiba Yawar	2-May-82	F	7-Aug-01	Ho. No. 861 S No. 52 Odean chowk Multan	A level
+4245	Umer Ismail	2-Jan-81	M	11-Aug-01	H#  175 Street No. 47 Farman block Hyderabad	A-Level
+4246	Farooq Barkat Sehti	4-Oct-81	M	14-Aug-01	house #  490 st. #  43 Pwd Coloney karachi	FSc
+4247	Salma Haq	4-Oct-81	F	17-Aug-01	h#  36 st. #  6 Chand mari Mirpur Khas	A-Level
+4248	Danish Abdul Mujeeb Sehti	6-Jun-81	M	20-Aug-01	House #  351 S#  1  karachi	FSc
+4249	Abdul Haseeb Chatta	8-Mar-83	M	24-Aug-01	house no. 665 Street #  97 Kala pul Karachi	F.Sc.
+4250	Maheera Alam	9-Mar-83	F	27-Aug-01	ho. # 212 Street # 92  Purani Taal Umer Kot	Fsc
+4251	Sarwar Aqeel Chatta	11-Dec-83	M	1-Aug-01	House No.527 s# 55  Amer Villas university road Karachi	F.Sc.
+4252	Moeena Kazmi	11-Aug-83	F	4-Aug-01	Ho. # 841 St. no.51  sea view housing society khr	Fsc
+4253	Muhammad Abdul Rafay Khan	13-Aug-82	M	8-Aug-01	Ho. no.388 St. no.46  Illyas abad Hyderabad	A level
+4254	Haseen Karam Illahi Kazmi	13-May-82	M	11-Aug-01	h no.702 S No.41  GPO colony KARACHI	HSSC
+4255	Nafisa Ajmal	15-Jan-82	F	14-Aug-01	Ho. No.17 Street No.5  Eid gha Mirpur Khas	A level
+4256	Junaid Nazir	16-Feb-82	M	17-Aug-01	H No. 332 St. No. 0 Sihaal Multan	HSSC
+4257	Jabir Mujtaba Niazi	18-Oct-81	M	21-Aug-01	house #  878 st. #  95 Liaqat road karachi	FSc
+4258	Mehak Tanvir AAqil Haq	18-Jun-81	F	24-Aug-01	h#  193 S#  59 College road Umer Kot	A-Level
+4259	Daud Awan	20-Jul-81	M	27-Aug-01	House #  507 street no. 54 Gulzar-e-Quaid karachi	FSc
+4260	Abdul Suleh Haqq	22-Mar-81	M	1-Aug-01	H#  54 Street #  49 Sukkan nala malir cantt KHR	A-Level
+4261	Badar Sheharyar	22-Dec-83	F	5-Aug-01	ho. #  368 s#  44 Karki Hyderabad	Fsc
+4262	Ghulam Mustafa Namani	25-Dec-83	M	8-Aug-01	House No.683 s# 8  Defense Phase IV Karachi	F.Sc.
+4263	Muhammad Shakeel Kiyyani	25-Aug-83	M	11-Aug-01	Ho. # 230 St. no.3  Daniyaal town Mirpur Khas	Fsc
+4264	Safi Qureshi	27-May-82	M	15-Aug-01	Ho. no.544 S No.98  Saat meel Quetta	A level
+4265	Rana Munir Khanzada	27-May-82	M	18-Aug-01	h no.859 S No.94   KARACHI	HSSC
+4266	Shafaq Ahmed	29/Feb/82	F	21-Aug-01	Ho. No.405 St. No.57  Doley shah Umer Kot	A level
+4267	Ghulam Yasin Waqas	29-Oct-82	M	24-Aug-01	H No.720 st. # 52  Railway line Mirpur Khas	HSSC
+4268	Mazhar Niazi	3-Nov-81	M	28-Aug-01	house #  34 s no. 48 Liaqat abad karachi	FSc
+4269	Qurat-ul-Ain Ismaili	3-Jul-81	F	2-Aug-01	h#  581 street no. 43 Kotlia Hyderabad	A-Level
+4270	Ejaz Awan	5-Mar-81	M	5-Aug-01	House #  896 Street #  6 Race course road karachi	FSc
+4271	Syed Aun Haqq	7-Apr-81	M	8-Aug-01	H#  210 St. #  2 GPO colony KHR	A-Level
+4272	Nozhat Javed	7-Dec-83	F	12-Aug-01	ho. #  525 s#  97 Surahi bazar Quetta	Fsc
+4273	Sadaf Mehmood	10-Sep-83	F	15-Aug-01	House No.71 street # 60  Farman block Hyderabad	F.Sc.
+4274	Asfar Kharasani	10-Sep-83	M	18-Aug-01	Ho. # 386 street # 56  Liaqat road khr	Fsc
+4275	Shahzor Jameel Usmani	12-May-83	M	21-Aug-01	house no.700 S No.51  Asif abad Karachi	F.Sc.
+4276	Iman Laghari	12-Feb-82	F	25-Aug-01	h no.247 St. No.46  Ghosia masjid chwok Quetta	HSSC
+4277	Shk. Ibrahim Bhatti	14-Feb-82	M	28-Aug-01	Ho. No.562 St. No.9  Landhi Khr	A level
+4278	Viqar Bakht	14-Nov-82	M	2-Aug-01	H No.876 s no.5  Purani Taal Umer Kot	HSSC
+4279	Sajeela Athar	17-Jul-81	F	6-Aug-01	house #  423 street no. 0 Darian Sibbi	FSc
+4280	Noor Haque	17-Jul-81	M	9-Aug-01	h#  737 street no. 95 Lalu khait KHR	A-Level
+4281	Abdul Suleh Jamil Pasha	19-Apr-81	M	12-Aug-01	House #  52 St. #  59 Illyas abad Hyderabad	FSc
+4282	Afeera Abbasi	21-Dec-81	F	15-Aug-01	H#  598 s#  54  KHR	A-Level
+4283	Bulbul Abdus Sammi Butt	21-Jan-83	M	19-Aug-01	ho. #  913 Street No. 49 Gulshan Abad khr	Fsc
+4284	Sanam Shahid	23-Sep-83	F	22-Aug-01	House No. 228 street #  45 Muzafar shah Quetta	F.Sc.
+4285	Shk. Osman Butt	24-May-83	M	25-Aug-01	Ho. # 774 S No.8  Liaqat abad khr	Fsc
+4286	Nadir Arman Ansary	26-Jun-83	M	28-Aug-01	house no.89 S# 3  Model town Karachi	F.Sc.
+4287	Shahina Khurshid Amjad Kharasani	26-Feb-82	F	3-Aug-01	h no.403 St. No.99  Mandi Sibbi	HSSC
+4288	Asif Ansary	28-Nov-82	M	6-Aug-01	Ho. No.950 s no.62  sea site Khr	A level
+4289	Kareem Masud	28-Nov-82	M	9-Aug-01	H No.264 s no.57  Karki Hyderabad	HSSC
+4290	Zinat Sana Ullah	1-Jul-82	F	12-Aug-01	Ho. no.579 street no.53  Koral Umer Kot	A level
+4291	Raja Fazal Satti	2-Apr-81	M	16-Aug-01	h#  894 St. #  48 Mazar e Quaid KHR	A-Level
+4292	Sh. Aun Pasha	4-Apr-81	M	19-Aug-01	House #  440 St. #  11 Saat meel Quetta	FSc
+4293	Ghosia Sahibzada Adnan Shah	6-Jan-81	F	22-Aug-01	H#  755 Street No. 6 Bander road KHR	A-Level
+4294	Raja Ghulam Mustafa Chohan	6-Sep-83	M	26-Aug-01	ho. #  69 street #  2 Shah latif town khr	Fsc
+4295	Firdous Badar	8-Sep-83	F	29-Aug-01	House No. 616 street #  97 kurang nala Sibbi	F.Sc.
+4296	Ch. Mujeeb Durrani	8-Jun-83	M	3-Aug-01	Ho. #  930 S#  60 Defense phase III khr	Fsc
+4297	Suleman Abbasi	11-Feb-83	M	6-Aug-01	house no.245 St. No.56  Kotlia Hyderabad	F.Sc.
+4298	Fareeha Gondal	11-Mar-82	F	10-Aug-01	h no.792 Street # 51  Main workshop Wahari	HSSC
+4299	Junaid Ansari	13-Nov-82	M	13-Aug-01	Ho. No.106 s no.46  Green town Khr	A level
+4300	Muazzam Qutab	13-Aug-82	M	16-Aug-01	H No.421 St. no.10  Surahi bazar Quetta	HSSC
+4301	Imrana Sikandar	15-Aug-82	F	19-Aug-01	Ho. no.967 St. no.5  Farman block Hyderabad	A level
+4302	M. Waqar Satti	15-Apr-81	M	23-Aug-01	h# 282 St. # 0  Dubai town KHR	A-Level
+4303	Emmad-ud-Din Yaar Muhammad Haqqie	18-Jan-81	M	26-Aug-01	House #  597 Street No. 64 Deinga Sibbi	FSc
+4304	Zeba Baig	20-Jan-81	F	29-Aug-01	H#  143 Street No. 59 New Clifton KHR	A-Level
+4305	Yasin Chohan	20-Oct-81	M	3-Aug-01	house #  458 st. #  54 sea site karachi	FSc
+4306	Maira Zaran	22-Jun-83	F	7-Aug-01	House No. 772 S#  50 Zikria Wahari	F.Sc.
+4307	Tipu Durrani	22-Feb-83	M	10-Aug-01	Ho. #  319 St. No. 13 Kashmir block gulshan iqbal khr	Fsc
+4308	Kareem Sikandar Jaffery	25-Mar-83	M	13-Aug-01	house no.633 Street # 8  Kumria Quetta	F.Sc.
+4309	Umme Habiba Khan	25-Nov-82	F	17-Aug-01	h no.948 s no.4  Nizam pur Lyyah	HSSC
+4310	Abdul Rafay Abdul Hannan Ansari	27-Aug-82	M	20-Aug-01	Ho. No.263 St. no.99  Jail road Khr	A level
+4311	Farman Shaukat	27-Aug-82	M	23-Aug-01	H No.809 St. no.62  Biyaal Sibbi	HSSC
+4312	Aliya Ansari	29-Apr-82	F	26-Aug-01	Ho. no.124 St. # 57  Jam kand Khr	A level
+4313	Arsalan Viqar-ul-Islam Sehti	29-Jan-81	M	1-Aug-01	h# 438 Street No.53  Sadiq Abad KHR	A-Level
+4314	Muazzam Hussain Haqqie	3-Jan-81	M	4-Aug-01	House #  985 Street No. 48 Shehar bazar Wahari	FSc
+4315	Hira Sehti	5-Oct-81	F	7-Aug-01	H#  299 st. #  11  KHR	A-Level
+4316	Pervaiz Rabbi Chatta	5-Jun-81	M	10-Aug-01	house #  614 S#  7 Green town karachi	FSc
+4317	Kina Aun	7-Jun-83	F	14-Aug-01	House No. 161 S#  2 Jamia masjid chowk Lyyah	F.Sc.
+4318	Anwar Chatta	7-Mar-83	M	17-Aug-01	Ho. #  475 Street #  97 Kishwar heights university road khr	Fsc
+4319	Nawabzada Bulbul Jaffery	9-Nov-83	M	20-Aug-01	house no. 790 s no. 61 Afangi block Sibbi	F.Sc.
+4320	Sajida Ikram Fakhir Khan	10-Dec-83	F	23-Aug-01	ho. # 336 s# 56  Saat meel Quetta	Fsc
+4321	Hafiz Annan Kazmi	12-Aug-82	M	27-Aug-01	Ho. No.651 St. no.51  Tariq road Khr	A level
+4322	Shahzor Muneer	12-Apr-82	M	1-Aug-01	H No.965 St. # 15  Shah malung Wahari	HSSC
+4323	Rafia Minhas	14-May-82	F	4-Aug-01	Ho. no.512 S No.10  Main sadar Khr	A level
+4324	Qasim Khattak	14-Jan-82	M	7-Aug-01	h no.827 Street No.5  Kashmir block gulshan iqbal KARACHI	HSSC
+4325	Muhammad Raza Haq	16-Oct-81	M	11-Aug-01	House # 141 st. # 1  Akbar masjid Lyyah	FSc
+4326	Farha Awan	19-Oct-81	F	14-Aug-01	H#  456 st. #  64 yadgaar KHR	A-Level
+4327	Bulbul Farzan	19-Jun-81	M	17-Aug-01	house #  2 S#  59 Jaamia Masjid road Sibbi	FSc
+4328	Wajida Suleman	21-Mar-83	F	21-Aug-01	House No. 317 Street #  54 Sherazia coloney Thata	F.Sc.
+4329	Shk. Ghulam Yasin Chatta	21-Mar-83	M	24-Aug-01	Ho. #  631 Street #  50 Tool factory coloney khr	Fsc
+4330	Ghani Kiyyani	23-Dec-83	M	27-Aug-01	house no. 178 s#  13 Sukkhan abad Wahari	F.Sc.
+4331	Aaila Qureshi	23-Aug-83	F	1-Aug-01	ho. #  493 St. no. 8 Deinga Sibbi	Fsc
+4332	Najam Kazmi	26-Sep-82	M	5-Aug-01	Ho. No.807 street # 4   Khr	A level
+4333	Qamar Rayyan	26-May-82	M	8-Aug-01	H No.354 S No.99  Park road Lyyah	HSSC
+4334	Asia Masood	28-Jan-82	F	11-Aug-01	Ho. no.668 Street No.62  Zikria Wahari	A level
+4335	Ikram Haqq	28-Feb-82	M	14-Aug-01	h no.983 St. No.58  Kishwar heights university road KARACHI	HSSC
+4336	Ch. Pervaiz Paracha	1-Oct-81	M	18-Aug-01	House # 529 st. # 53  Taj abad Thata	FSc
+4337	Kainat Zaidi	3-Jul-81	F	21-Aug-01	H# 844 street no.16  Defense Phase 1 KHR	A-Level
+4338	Masood Abdul Qadeer Sherazi	4-Jul-81	M	24-Aug-01	house #  159 street no. 12 Tariq road karachi	FSc
+4339	Abuzar Sheharyar	6-Mar-81	M	27-Aug-01	h#  705 Street #  7 Biyaal Sibbi	A-Level
+4340	Zareen Khanzada	6-Dec-83	F	2-Aug-01	Ho. #  20 s#  2 PRC coloney khr	Fsc
+4341	Abdul Mannan Usmani	8-Dec-83	M	5-Aug-01	house no. 334 s#  66 Karkhana road Lyyah	F.Sc.
+4342	Arman Rahid Kharasani	8-Sep-83	M	8-Aug-01	ho. #  881 street #  61 Shehar bazar Wahari	Fsc
+4343	Nimra Hussaini	11-May-82	F	12-Aug-01	Ho. No.195 S No.56  Gulzar-e-Quaid Khr	A level
+4344	Kaleem Rehan	11-May-82	M	15-Aug-01	H No.510 S No.51  Bara bazar Thata	HSSC
+4345	Rahid Ehsan Hussaini	13-Feb-82	M	18-Aug-01	Ho. no.825 St. No.15  Goth jumman Khr	A level
+4346	Barkat Haque	13-Oct-82	M	21-Aug-01	h no.371 st. # 10  Tool factory coloney KARACHI	HSSC
+4347	Syed Affan Pasha	15-Nov-81	M	25-Aug-01	House # 686 s no.5  Shuakat coloney Chishtian	FSc
+4348	Suryya Mirza Adil Haque	17-Jul-81	F	28-Aug-01	H# 0 street no.1  Sultana abad KHR	A-Level
+4349	Mouhammad Sattar Butt	18-Mar-81	M	2-Aug-01	house #  547 Street #  64  karachi	FSc
+4350	Viqar Waqar	20-Apr-81	M	5-Aug-01	h#  862 St. #  59 Shah malung Wahari	A-Level
+4351	Annum Butt	20-Dec-83	F	9-Aug-01	Ho. #  176 s#  55 Gulistan coloney khr	Fsc
+4352	Raja Moeen Ansary	22-Sep-83	M	12-Aug-01	house no. 723 street #  18  Thata	F.Sc.
+4353	Sahibzada Suleman Kharasani	22-Sep-83	M	15-Aug-01	ho. #  37 street #  13 Akbar masjid Lyyah	Fsc
+4354	Bakht Mazhar Haqqie	24-May-83	M	18-Aug-01	House No. 352 S No. 9 Main workshop Wahari	F.Sc.
+4355	AAmina Shah	25-Feb-82	F	22-Aug-01	H No.898 St. No.4  GPO colony KARACHI	HSSC
+4356	Ajab Arsalan	27-Feb-82	M	25-Aug-01	Ho. no.213 St. No.67  Sherazia coloney Thata	A level
+4357	Muazzam Waqas	27-Nov-82	M	28-Aug-01	h no.528 s no.63  Kachi abadi Lyyah	HSSC
+4358	Sualeha Durrani	29-Jul-81	F	3-Aug-01	House # 74 street no.58  Liaqat road karachi	FSc
+4359	Masud Jaffery	2-Jul-81	M	6-Aug-01	H# 389 street no.53  Dhamiyal Chishtian	A-Level
+4360	Haroon Durrani	2-Apr-81	M	9-Aug-01	house # 703 St. # 17  Gulzar-e-Quaid karachi	FSc
+4361	Saba Ansari	5-Dec-81	F	12-Aug-01	h#  250 s#  12 Sukkan nala malir cantt KHR	A-Level
+4362	Badar Viqar	5-Jan-83	M	16-Aug-01	Ho. #  564 Street No. 7 Cantt. road Sadiqabad	Fsc
+4363	Muhammad Amer Ansari	7-Sep-83	M	19-Aug-01	house no. 879 street #  2 Defense Phase IV Karachi	F.Sc.
+4364	Rehan Sehti	7-Jun-83	M	22-Aug-01	ho. #  194 S#  66 Pwd Coloney khr	Fsc
+4365	Sheikh Ahmad Haqqie	9-Jun-83	M	25-Aug-01	House No. 740 S#  61 Nizam pur Lyyah	F.Sc.
+4366	Badar Sehti	9-Feb-82	F	29-Aug-01	H No. 55 St. No. 56  KARACHI	HSSC
+4367	Muaz Naeem	12-Nov-82	M	3-Aug-01	Ho. no.369 s no.20  Karnianwala Chishtian	A level
+4368	Abdul Hameed Amjad	12-Nov-82	M	6-Aug-01	h no.916 s no.15  Karimabad Thata	HSSC
+4369	Iqra Chatta	14-Aug-82	F	9-Aug-01	Ho. No.230 St. no.10  Amer Villas university road Khr	A level
+4370	Jabbar Jaffery	16-Apr-81	M	13-Aug-01	H# 545 St. # 6  Garrizon Sadiqabad	A-Level
+4371	Mouhammad Ghani Khan	16-Dec-81	M	16-Aug-01	house # 92 s# 69  Race course road karachi	FSc
+4372	Asiya Jaffery	18-Jan-81	F	19-Aug-01	h# 406 Street No.64  GPO colony KHR	A-Level
+4373	Ibrahim Wajid	19-Sep-81	M	22-Aug-01	House #  721 street #  60 Jamia masjid chowk Lyyah	FSc
+4374	Shujaat Azhar Minhas	21-Jun-83	M	26-Aug-01	house no. 267 S#  55 Zeenat block Karachi	F.Sc.
+4375	Shahina Khattak	21-Jun-83	F	29-Aug-01	ho. #  582 S#  18 Shuakat coloney Chishtian	Fsc
+4376	Abdul Basit Rabbi Haq	23-Feb-83	M	3-Aug-01	House No. 896 St. No. 14 Mutian wala Thata	F.Sc.
+4377	Nosheen Nawabzada Khurram Sehti	23-Nov-82	F	7-Aug-01	H No. 443 s no. 9 Bander road KARACHI	HSSC
+4378	Masud Yusaf	26-Nov-82	M	10-Aug-01	Ho. no.758 s no.4  Dak ghar Sadiqabad	A level
+4379	Ijaz Sehti	26-Aug-82	M	13-Aug-01	h no.72 St. no.67  Goth Yousaf KARACHI	HSSC
+4380	Shaheen Chatta	28-Apr-82	F	16-Aug-01	Ho. No.387 St. # 63  Defense Phase IV Khr	A level
+4381	Abdus Sattar Mehmood Kiyyani	1-Apr-81	M	20-Aug-01	H# 933 St. # 58  Mujahid block Usman Kot	A-Level
+4382	Sheik Zulfiqar Chatta	1-Jan-81	M	23-Aug-01	house # 248 Street No.53  Sultan coloney karachi	FSc
+4383	Nadia Sh. Haroon Kazmi	3-Sep-81	F	26-Aug-01	h# 562 street # 17   KHR	A-Level
+4384	Mustamsir Athar	4-Oct-81	M	29-Aug-01	House #  109 st. #  12 Sherazia coloney Thata	FSc
+4385	Qutab Kazmi	6-Jun-83	M	4-Aug-01	house no. 424 S#  7 Gulistan e Johar Karachi	F.Sc.
+4386	Fareeha Niazi	6-Feb-83	F	7-Aug-01	ho. #  738 St. No. 71 Pakistan hostel Sadiqabad	Fsc
+4387	Karam Illahi Kaleem Minhas	8-Mar-83	M	10-Aug-01	House No. 285 Street #  66 Dhamiyal Chishtian	F.Sc.
+4388	Rahat Niazi	8-Nov-83	F	13-Aug-01	Ho. #  599 s no. 61 Race course road khr	Fsc
+4389	Rayyan Shams-ul-Islam	10-Aug-82	M	17-Aug-01	Ho. no. 914 St. no. 57 Hospital road Usman Kot	A level
+4390	Mouhammed Affan Awan	11-Aug-82	M	20-Aug-01	h no.460 St. no.20  Jinnah complex KARACHI	HSSC
+4391	Nida Adnan Haqq	13-May-82	F	23-Aug-01	Ho. No.775 S No.15  Zeenat block Khr	A level
+4392	Munir Baber Kiyyani	15-Jan-81	M	27-Aug-01	H# 90 Street No.11  Bhatta Karachi	A-Level
+4393	Babar Namani	15-Jan-81	M	1-Aug-01	house # 636 Street No.6  Zeeshan coloney Township karachi	FSc
+4394	Maheen Masud	17-Oct-81	F	4-Aug-01	h# 951 st. # 69  Jalsa gha Sadiqabad	A-Level
+4395	Raza Saaleh	17-Jun-81	M	7-Aug-01	House # 265 S# 64  Karnianwala Chishtian	FSc
+4396	Rana Nabeel Khanzada	20-Jul-83	M	11-Aug-01	house no. 812 street no. 60 Jam kand Karachi	F.Sc.
+4397	Zara Qureshi	20-Mar-83	F	14-Aug-01	ho. #  127 Street #  55 Factory road Usman Kot	Fsc
+4398	Saroor Kalim Ismaili	22-Nov-83	M	17-Aug-01	House No. 441 s no. 18 Garrizon Sadiqabad	F.Sc.
+4399	Sadaf Niazi	22-Dec-83	F	20-Aug-01	Ho. #  756 s#  14 Sultan coloney khr	Fsc
+4400	Aftab Muneer	24-Aug-82	M	24-Aug-01	Ho. no. 302 St. no. 9 Pind dadu Karachi	A level
+4401	Salim Ahmad Paracha	24-May-82	M	27-Aug-01	h no. 617 S No. 72 Gulshan Abad KARACHI	HSSC
+4402	Atra Haqq	27-May-82	F	1-Aug-01	Ho. No.931 S No.68  Gulistan e Johar Khr	A level
+4403	Sarwar Paracha	29-Jan-82	M	4-Aug-01	H No.478 Street No.63  Shuakat coloney Chishtian	HSSC
+4404	Taimor Umer Namani	29-Oct-81	M	8-Aug-01	house # 793 st. # 58  Town ship near Barkat chowk karachi	FSc
+4405	Nazima Yosaf	2-Oct-81	F	11-Aug-01	h# 107 st. # 22  Buliyan wali Usman Kot	A-Level
+4406	Kamran Suleman	2-Jul-81	M	14-Aug-01	House # 654 street no.17  Dak ghar Sadiqabad	FSc
+4407	Ajmal Zameer Khanzada	4-Mar-83	M	18-Aug-01	house no.968 Street # 12  Main sadar Karachi	F.Sc.
+4408	Sajida Ehsan Haseen Usmani	5-Mar-83	F	21-Aug-01	ho. #  283 Street #  8 Chandi bazar Karachi	Fsc
+4409	M. Mujeeb Khanzada	7-Dec-83	M	24-Aug-01	House No. 829 s#  71 Mazar e Quaid Karachi	F.Sc.
+4410	Nabeera Mohammad Amjad Hussaini	7-Aug-83	F	27-Aug-01	Ho. #  144 St. no. 66 Zeeshan coloney Township khr	Fsc
+4411	Sammi Sharif	9-Sep-82	M	2-Aug-01	Ho. no. 459 street #  62 Odean chowk Multan	A level
+4412	Kamal AAmer Hussaini	9-May-82	M	5-Aug-01	h no. 5 S No. 57 Shah latif town KARACHI	HSSC
+4413	Shehzad Butt	12-Jan-82	M	8-Aug-01	Ho. No.320 Street No.20  Jam kand Khr	A level
+4414	Kaneez Abbasi	14-Feb-82	F	11-Aug-01	H No.634 St. No.15  Pakistan hostel Sadiqabad	HSSC
+4415	Khalid Emmad-ud-Din Kharasani	14-Oct-81	M	15-Aug-01	house # 181 st. # 11  Yaseen chowk karachi	FSc
+4416	Rubina Ansary	16-Jul-81	F	18-Aug-01	h# 495 street no.74   KHR	A-Level
+4417	Baqir Muneer	16-Jul-81	M	21-Aug-01	House # 810 street no.69  Hospital road Usman Kot	FSc
+4418	Chodhary Abdul Qadir Bhatti	18-Mar-81	M	24-Aug-01	H# 125 Street # 65  Gulshan Abad KHR	A-Level
+4419	Nimra Qutab Imtiaz Satti	19-Dec-83	F	28-Aug-01	ho. #  671 s#  60 Kusar coloney Multan	Fsc
+4420	Syyed Yosaf Bhatti	21-Dec-83	M	2-Aug-01	House No. 986 s#  23 Bhatta Karachi	F.Sc.
+4421	Rahat Shah	21-Sep-83	M	5-Aug-01	Ho. #  300 street #  19 Town ship near Barkat chowk khr	Fsc
+4422	Kiran Nadeem	23-May-82	F	9-Aug-01	Ho. no. 847 S No. 14 Eid gha Mirpur Khas	A level
+4423	Shabir Shan Shah	23-Jun-82	M	12-Aug-01	h no. 161 S#  9 Samanabad KARACHI	HSSC
+4424	Rana Ajab Durrani	25-Feb-82	M	15-Aug-01	Ho. No. 476 St. No. 73 Main sadar Khr	A level
+4425	Samman Abbasi	28-Oct-82	F	18-Aug-01	H No.23 st. # 68  Factory road Usman Kot	HSSC
+4426	Alam Emmad Durrani	28-Nov-81	M	22-Aug-01	house # 337 s no.63  Bhutto complex karachi	FSc
+4427	Ismail Arshad	1-Jul-81	M	25-Aug-01	h# 652 street no.59  Nai abadi Multan	A-Level
+4428	Tipo Abdul Malik	1-Apr-81	M	28-Aug-01	House # 198 St. # 22  Pind dadu Karachi	FSc
+4429	Munnawar Mujeeb Ansari	3-Apr-81	M	2-Aug-01	H# 513 St. # 17  Shah latif town KHR	A-Level
+4430	Feroza Gondal	3-Dec-83	F	6-Aug-01	ho. # 827 s# 12  Daniyaal town Mirpur Khas	Fsc
+4431	Mehmood Haqqie	6-Sep-83	M	9-Aug-01	House No. 374 street #  76 Haider road Multan	F.Sc.
+4432	Chodhary Shujaat Satti	6-May-83	M	12-Aug-01	Ho. #  689 S No. 71 Yaseen chowk khr	Fsc
+4433	Umme Habiba Shabir	8-Jun-83	F	15-Aug-01	house no. 3 S#  66 Buliyan wali Usman Kot	F.Sc.
+4434	Amjad Baig	8-Feb-82	M	19-Aug-01	h no. 318 St. No. 62 New air port KARACHI	HSSC
+4435	Sheikh Furqan Chohan	10-Oct-82	M	22-Aug-01	Ho. No. 864 st. #  25 Gulshan Iqbal Khr	A level
+4436	Hadiqa Bashir Rahat Baig	12-Nov-82	F	25-Aug-01	H No. 179 s no. 20 Chandi bazar Karachi	HSSC
+4437	Abdus Sattar Durrani	13-Jul-82	M	28-Aug-01	Ho. no.493 street no.16  Dubai town Khr	A level
+4438	Yaar Muhammad Talha	15-Apr-81	M	3-Aug-01	h# 40 St. # 11  Chittian hattian Mirpur Khas	A-Level
+4439	Muaz Moeen	15-Apr-81	M	6-Aug-01	House # 355 St. # 74  Odean chowk Multan	FSc
+4440	Iqbal Ansari	17-Dec-81	M	9-Aug-01	H# 669 s# 70  Samanabad KHR	A-Level
+4441	Mahreen Khattak	17-Sep-83	F	13-Aug-01	ho. # 216 street # 65  Mitran walia Umer Kot	Fsc
+4442	Faisal Ansari	19-Sep-83	M	16-Aug-01	House No.530 street # 60  Kasmmir market Gulshan-e-Iqbal Karachi	F.Sc.
+4443	Raja Fakhir Sehti	20-Jun-83	M	19-Aug-01	Ho. #  845 S#  24 Bhutto complex khr	Fsc
+4444	Mahnoor Munir	22-Feb-83	F	22-Aug-01	house no. 392 St. No. 19 Khumar road Karachi	F.Sc.
+4445	Mohammed Shams Sehti	22-Feb-82	M	26-Aug-01	h no. 706 St. No. 14 Sukkan nala malir cantt KARACHI	HSSC
+4446	Baber Rehan Chatta	24-Nov-82	M	29-Aug-01	Ho. No. 21 s no. 9 Goth jumman Khr	A level
+4447	Saira Baig	26-Jul-82	F	3-Aug-01	H No. 567 street no. 73 Kusar coloney Multan	HSSC
+4448	Qudoos Chatta	27-Aug-82	M	6-Aug-01	Ho. no.882 St. no.68  Sadiq Abad Khr	A level
+4449	Karam Illahi Islam	29-Apr-81	M	10-Aug-01	h# 196 St. # 63  Bunkhar gali Umer Kot	A-Level
+4450	Masood Yousaf	29-Dec-81	M	13-Aug-01	House # 743 s# 27  Eid gha Mirpur Khas	FSc
+4451	Mudassir Kazmi	2-Jan-81	M	16-Aug-01	H# 58 Street No.22  New air port KHR	A-Level
+4452	Saba Khattak	2-Sep-81	F	19-Aug-01	house # 372 street # 17  Noorpur Karachi	FSc
+4453	Kashif Zabir Minhas	4-Jun-83	M	23-Aug-01	House No.687 S# 13  Amer Villas university road Karachi	F.Sc.
+4454	Masroor Niazi	5-Jun-83	M	26-Aug-01	Ho. #  233 S#  76 sea view housing society khr	Fsc
+4455	Khurshid Abdur Raziq	7-Mar-83	F	29-Aug-01	house no. 548 Street #  71 Nai abadi Multan	F.Sc.
+4456	Mouhammed Taimor Awan	7-Nov-82	M	4-Aug-01	h no. 862 s no. 67 GPO colony KARACHI	HSSC
+4457	Zaran Sabir Haq	9-Nov-82	M	7-Aug-01	Ho. No. 409 s no. 62 Koral Umer Kot	A level
+4458	Kiran Kiyyani	11-Aug-82	F	10-Aug-01	H No. 724 St. no. 25 Daniyaal town Mirpur Khas	HSSC
+4459	Shan Zulfiqar Chatta	11-Apr-82	M	13-Aug-01	Ho. no. 38 St. #  21 Kasmmir market Gulshan-e-Iqbal Khr	A level
+4460	Baber Naeem	14-May-81	M	17-Aug-01	h# 585 S No.16  Byaar Hyderabad	A-Level
+4461	Ahmad Sabir	14-Jan-81	M	20-Aug-01	House # 899 Street No.11  Doley shah Umer Kot	FSc
+4462	Rana Aqeel Kazmi	16-Sep-81	M	23-Aug-01	H# 214 street # 75  Sukkan nala malir cantt KHR	A-Level
+4463	Syyeda Kamal Jabbar Qureshi	16-Oct-81	F	26-Aug-01	house # 760 st. # 70  Farooqia Multan	FSc
+4464	Latif Minhas	18-Jun-83	M	1-Aug-01	House No.75 S# 65  Defense Phase IV Karachi	F.Sc.
+4465	Obaid Sikandar Niazi	18-Mar-83	M	4-Aug-01	Ho. # 390 Street # 28  Pwd Coloney khr	Fsc
+4466	Atiya Wajid	21-Mar-83	F	7-Aug-01	house no. 936 Street #  24 Chittian hattian Mirpur Khas	F.Sc.
+4467	Zabir Awan	21-Nov-83	M	10-Aug-01	ho. #  251 s no. 19  khr	Fsc
+4468	Mouhammed Shujaat Haqq	23-Aug-82	M	14-Aug-01	Ho. No. 565 St. no. 14 Farman block Hyderabad	A level
+4469	Fatima Awan	25-Aug-82	F	17-Aug-01	H No. 112 St. no. 78 Mitran walia Umer Kot	HSSC
+4470	Agha Jamal Namani	25-May-82	M	20-Aug-01	Ho. no. 426 S No. 73 Amer Villas university road Khr	A level
+4471	Khurshid Nazir	27-Jan-81	M	24-Aug-01	h#  741 Street No. 68 Ghosia masjid chwok Quetta	A-Level
+4472	Bano Namani	28-Jan-81	F	27-Aug-01	House # 56 Street No.64  Race course road karachi	FSc
+4473	Choudhary Baqir Hussaini	1-Oct-81	M	1-Aug-01	H# 602 st. # 27  GPO colony KHR	A-Level
+4474	Sohail Laghari	1-Jun-81	M	4-Aug-01	house # 917 S# 22  City Road Mirpur Khas	FSc
+4475	Umber Hussaini	3-Jul-83	F	8-Aug-01	House No.231 street no.18  Zeenat block Karachi	F.Sc.
+4476	Nazeer Tanvir Haque	3-Mar-83	M	11-Aug-01	Ho. # 778 Street # 13  Liaqat road khr	Fsc
+4477	Munir Abu Bakr	5-Nov-83	M	14-Aug-01	house no.92 s no.76  Bunkhar gali Umer Kot	F.Sc.
+4478	Nirma Baber Haque	6-Dec-83	F	17-Aug-01	ho. #  407 s#  72 Gulzar-e-Quaid khr	Fsc
+4479	Khalid Butt	8-Aug-82	M	21-Aug-01	Ho. No. 954 St. no. 67 Landhi Khr	A level
+4480	Sanam Zaidi	10-May-82	F	24-Aug-01	H No. 268 S No. 30 Lakhan Hyderabad	HSSC
+4481	Mouhammad Shakir Butt	10-May-82	M	27-Aug-01	Ho. no. 583 S No. 25 Defense Phase IV Khr	A level
+4482	Affan Nazeer	12-Jan-82	M	1-Aug-01	h no. 129 Street No. 21 Malik abad Mirpur Khas	HSSC
+4483	Huda Azhar	13-Oct-81	F	5-Aug-01	House # 444 st. # 16  Purana shehar Quetta	FSc
+4484	Abdul Basit Latif Ansary	15-Oct-81	M	8-Aug-01	H# 758 st. # 79   KHR	A-Level
+4485	Sahibzada Obaid Laghari	15-Jul-81	M	11-Aug-01	house # 305 street no.75  Koral Umer Kot	FSc
+4486	Farhana Bhatti	17-Mar-83	F	15-Aug-01	House No.620 Street # 70  Gulistan e Johar Karachi	F.Sc.
+4487	Mehmood Haroon Satti	17-Apr-83	M	18-Aug-01	Ho. # 934 St. # 65  Liaqat abad khr	Fsc
+4488	Aun Muaz	19-Dec-83	M	21-Aug-01	house no.249 s# 29  Byaar Hyderabad	F.Sc.
+4489	Eman Shan Shah	20-Aug-83	F	24-Aug-01	ho. #  795 St. no. 24 Race course road khr	Fsc
+4490	Muamar Pasha	22-Sep-82	M	28-Aug-01	Ho. No. 110 street #  19 kurang nala Sibbi	A level
+4491	Rukshanda Alam Imtiaz Abbasi	24-May-82	F	2-Aug-01	H No. 425 S No. 15 Chan chirag Quetta	HSSC
+4492	Shams-ul-Islam Durrani	24-Feb-82	M	5-Aug-01	Ho. no. 971 St. No. 78 Zeenat block Khr	A level
+4493	Azhar Shams	26-Feb-82	M	8-Aug-01	h no. 286 St. No. 73 Saidpur road Umer Kot	HSSC
+4494	Mahjabeen Amjad	26-Oct-81	F	12-Aug-01	House #  600 st. #  69 Jaamia Masjid road Sibbi	FSc
+4495	Karam Ansary	29-Jul-81	M	15-Aug-01	H# 147 street no.32  Bander road KHR	A-Level
+4496	Momd. Abdul Mujeeb Gondal	29-Mar-81	M	18-Aug-01	house # 461 Street # 27  Farman block Hyderabad	FSc
+4497	Manahil Nawabzada Arsalan Haqqie	2-Apr-81	F	21-Aug-01	h# 776 St. # 22  Goth Yousaf KHR	A-Level
+4498	Mouhammad Faisal Satti	2-Dec-83	M	25-Aug-01	Ho. # 323 s# 18  Defense phase III khr	Fsc
+4499	Muzammil Hayyat	4-Aug-83	M	28-Aug-01	house no.637 St. no.81  Ghosia masjid chwok Quetta	F.Sc.
+4500	Kashaf Shah	4-Sep-83	F	2-Aug-01	ho. # 952 street # 76  Sultan coloney khr	Fsc
+4501	Haseen Arshad Chohan	7-May-83	M	5-Aug-01	House No. 498 S No. 72 Purani Taal Umer Kot	F.Sc.
+4502	Sajeela Shah	9-Feb-82	F	9-Aug-01	H No. 813 St. No. 67 Darian Sibbi	HSSC
+4503	Ismail Durrani	9-Feb-82	M	12-Aug-01	Ho. no. 127 St. No. 30 Gulistan e Johar Khr	A level
+4504	Shaukat Abuzar	11-Oct-82	M	15-Aug-01	h no. 674 st. #  26 Illyas abad Hyderabad	HSSC
+4505	Afeera Durrani	11-Jul-81	F	19-Aug-01	House #  989 street no. 21 Town ship near Barkat chowk karachi	FSc
+4506	Arif Ansari	13-Jul-81	M	22-Aug-01	H#  303 street no. 16 New Clifton KHR	A-Level
+4507	Abdur Rahman Gondal	14-Apr-81	M	25-Aug-01	house # 618 St. # 80  Muzafar shah Quetta	FSc
+4508	Shamima Ansari	16-Dec-81	F	28-Aug-01	h# 164 s# 75  Jinnah complex KHR	A-Level
+4509	Mustamsir Sehti	16-Dec-83	M	3-Aug-01	Ho. # 479 s# 70  Kashmir block gulshan iqbal khr	Fsc
+4510	Yaar Muhammad Asfar	18-Sep-83	M	6-Aug-01	house no.793 street # 66  Mandi Sibbi	F.Sc.
+4511	Manahil Sehti	18-May-83	F	9-Aug-01	ho. # 340 S No.29  Zeeshan coloney Township khr	Fsc
+4512	Nazir Amjad Chohan	20-Jun-83	M	12-Aug-01	House No.655 S# 24  Karki Hyderabad	F.Sc.
+4513	Urooj Baig	23-Feb-82	F	16-Aug-01	H No. 969 St. No. 20 Mitthian Wahari	HSSC
+4514	Ayyaz Yasin Chatta	23-Oct-82	M	19-Aug-01	Ho. no. 516 st. #  83 Jam kand Khr	A level
+4515	Nabeel Qasim	25-Nov-82	M	22-Aug-01	h no. 830 s no. 78 Saat meel Quetta	HSSC
+4516	Sadaf Khurram Khan	25-Jul-82	F	25-Aug-01	Ho. No. 145 street no. 73 Lalu khait Khr	A level
+4517	Choudhary Mujahid Jaffery	27-Apr-81	M	29-Aug-01	H#  691 St. #  69  KHR	A-Level
+4518	Shabeer Kamran Khattak	28-Apr-81	M	3-Aug-01	house # 6 St. # 32  kurang nala Sibbi	FSc
+4519	Najia Minhas	1-Jan-81	F	6-Aug-01	h# 321 Street No.27  Gulshan Abad KHR	A-Level
+4520	Abdul Malik Shakir	1-Sep-83	M	10-Aug-01	Ho. # 867 street # 23  Akbar masjid Lyyah	Fsc
+4521	Karam Tabraiz	3-Sep-83	M	13-Aug-01	house no.182 street # 18  Main workshop Wahari	F.Sc.
+4522	Saira Mekail Sehti	3-Jun-83	F	16-Aug-01	ho. # 496 S# 81  Town ship near Barkat chowk khr	Fsc
+4523	Shk. Tahir Haq	5-Feb-83	M	19-Aug-01	House No.43 St. No.77  Surahi bazar Quetta	F.Sc.
+4524	Anjum Shujaat Kiyyani	8-Mar-82	M	23-Aug-01	H No. 357 Street #  72 Samanabad KARACHI	HSSC
+4525	Rana Abdus Sammi Chatta	8-Nov-82	M	26-Aug-01	Ho. no. 672 s no. 67 Main sadar Khr	A level
+4526	Inayyat Abdul Suleh	10-Jul-82	M	29-Aug-01	h no. 987 street no. 31 Deinga Sibbi	HSSC
+4527	Wajiha Khan	10-Aug-82	F	3-Aug-01	Ho. No. 533 St. no. 26 Mazar e Quaid Khr	A level
+4528	Kareem Shams-ul-Islam Kazmi	12-Apr-81	M	7-Aug-01	H#  848 St. #  21 yadgaar KHR	A-Level
+4529	Sheikh Noor Qureshi	12-Jan-81	M	10-Aug-01	house #  162 Street No. 85 Zikria Wahari	FSc
+4530	Gul Agha Usman Minhas	15-Jan-81	F	13-Aug-01	h# 709 Street No.80  Shah latif town KHR	A-Level
+4531	Abdul Ahad Osman	15-Sep-81	M	16-Aug-01	House # 23 street # 75  Kumria Quetta	FSc
+4532	Baber Shehzad	17-Jun-83	M	20-Aug-01	house no.338 S# 70  Nizam pur Lyyah	F.Sc.
+4533	Shakeel Abdur Raziq	17-Jun-83	M	23-Aug-01	ho. # 885 S# 34  post office Wahari	Fsc
+4534	Jaleela Saaleh Namani	19-Mar-83	F	26-Aug-01	House No.199 Street # 29   Karachi	F.Sc.
+4535	Mouhammad Ibraheem Sherazi	19-Nov-82	M	1-Aug-01	H No.514 s no.24  Karimabad Thata	HSSC
+4536	Murtaza Zaidi	22-Nov-82	M	4-Aug-01	Ho. no. 60 s no. 20 Karkhana road Lyyah	A level
+4537	Abeera Khanzada	24-Aug-82	F	7-Aug-01	h no. 375 St. no. 83 Kishwar heights university road KARACHI	HSSC
+4538	Kashif Abdur Rahman	24-Apr-82	M	10-Aug-01	Ho. No. 690 St. #  78 Mandi Sibbi	A level
+4539	Nazir Khanzada	26-May-81	M	14-Aug-01	H#  236 S No. 74 Defense Phase 1 KHR	A-Level
+4540	Uzma Hussaini	26-Jan-81	F	17-Aug-01	house #  551 Street No. 69 Tariq road karachi	FSc
+4541	M. Kabir Laghari	28-Sep-81	M	20-Aug-01	h#  865 street #  32 Mitthian Wahari	A-Level
+4542	Kamran Hussaini	29-Oct-81	M	23-Aug-01	House # 180 st. # 28  Main sadar karachi	FSc
+4543	Chodhary Shabi Haque	2-Jun-83	M	27-Aug-01	house no.726 S# 23  Kasmmir market Gulshan-e-Iqbal Karachi	F.Sc.
+4544	Annan Adil	2-Mar-83	M	1-Aug-01	ho. # 41 Street # 86  Hamdarad road Lyyah	Fsc
+4545	Shehnaz Haque	4-Mar-83	F	4-Aug-01	House No.356 Street # 82  yadgaar Karachi	F.Sc.
+4546	Abdus Sammi Butt	4-Nov-83	M	7-Aug-01	Ho. # 902 s no.77  kurang nala Sibbi	Fsc
+4547	Mohammad Muamar Zaidi	6-Aug-82	M	11-Aug-01	Ho. no.217 St. no.72   Thata	A level
+4548	Mounazza Butt	9-Aug-82	F	14-Aug-01	h no. 531 St. no. 35 Tool factory coloney KARACHI	HSSC
+4549	Islam Arman	9-May-82	M	17-Aug-01	Ho. No. 78 S No. 31 Main workshop Wahari	A level
+4550	Rana Uhad Kharasani	11-Jan-81	M	21-Aug-01	H#  392 Street No. 26 Sultana abad KHR	A-Level
+4551	Rukhsana Sahir Usmani	11-Feb-81	F	24-Aug-01	house #  707 St. No. 21  karachi	FSc
+4552	Ghulam Yasin Laghari	13-Oct-81	M	27-Aug-01	h#  254 st. #  85 Kachi abadi Lyyah	A-Level
+4553	Tipo Ahmed Bhatti	14-Jun-81	M	1-Aug-01	House # 568 S# 80  Gulshan Iqbal karachi	FSc
+4554	Reema Islam	16-Jul-83	F	5-Aug-01	house no.883 street no.75  Dhamiyal Chishtian	F.Sc.
+4555	Affan Mazhar	16-Mar-83	M	8-Aug-01	ho. # 429 Street # 71  Dehri Thata	Fsc
+4556	Tamania Haque	18-Dec-83	F	11-Aug-01	House No.744 s# 34  Defense Phase 1 Karachi	F.Sc.
+4557	Abdul Rafay Pasha	18-Dec-83	M	14-Aug-01	Ho. # 58 s# 29  Zikria Wahari	Fsc
+4558	Mukhtar Abbasi	20-Aug-82	M	18-Aug-01	Ho. no.605 St. no.25  Landi Chishtian	A level
+4559	Shehnaz Muhammad Qutab Butt	23-May-82	F	21-Aug-01	h no. 920 S No. 88 PRC coloney KARACHI	HSSC
+4560	Soneel Abdur Rahim	23-Jan-82	M	24-Aug-01	Ho. No. 234 Street No. 83 Nizam pur Lyyah	A level
+4561	Safi Azmat Kharasani	25-Feb-82	M	27-Aug-01	H No. 549 St. No. 79 Bhutto complex KARACHI	HSSC
+4562	Shamima Ansary	25-Oct-81	F	2-Aug-01	house #  95 st. #  74 Gulzar-e-Quaid karachi	FSc
+4563	Daud Gondal	27-Jun-81	M	5-Aug-01	h#  410 S#  37 Karimabad Thata	A-Level
+4564	Sheik Abdul Suleh Bhatti	27-Jul-81	M	8-Aug-01	House #  724 street no. 33 Goth jumman karachi	FSc
+4565	Rizwana Abdul Haseeb	1-Mar-81	F	11-Aug-01	H# 271 Street # 28  Shehar bazar Wahari	A-Level
+4566	Asfar Sabir	1-Dec-83	M	15-Aug-01	ho. # 586 s# 23  Ramzania Chishtian	Fsc
+4567	Samia Shah	3-Dec-83	F	18-Aug-01	House No.900 s# 86  Sultana abad Karachi	F.Sc.
+4568	Syyed Annan Chohan	3-Aug-83	M	21-Aug-01	Ho. # 447 St. no.82  Jamia masjid chowk Lyyah	Fsc
+4569	Jamil Shah	5-May-82	M	25-Aug-01	Ho. no.761 S No.77  Kala pul Khr	A level
+4570	Asma Sh. Siraj Durrani	7-May-82	F	28-Aug-01	h no.76 S No.72  Gulistan coloney KARACHI	HSSC
+4571	Saleem AAdil	8-Feb-82	M	2-Aug-01	Ho. No. 622 St. No. 36 Mutian wala Thata	A level
+4572	Mujeeb Murtaza Durrani	10-Oct-82	M	5-Aug-01	H No. 937 st. #  31 sea view housing society KARACHI	HSSC
+4573	Kaneez Fatima Ansari	10-Oct-81	F	9-Aug-01	house #  252 st. #  26 Dak ghar Sadiqabad	FSc
+4574	Ejaz Abdul Najeeb Gondal	12-Jul-81	M	12-Aug-01	h#  798 street no. 22 Cement factory coloney Chishtian	A-Level
+4575	Saaleh Ansari	12-Mar-81	M	15-Aug-01	House #  113 Street #  85 Service road karachi	FSc
+4576	Zareen Jamil	14-Apr-81	F	18-Aug-01	H#  427 St. #  80 Akbar masjid Lyyah	A-Level
+4577	Shaukat Zil-e-Ali	15-Dec-83	M	22-Aug-01	ho. # 742 s# 76  Bakra mandi Sadiqabad	Fsc
+4578	Sara Zubair Sehti	17-Aug-83	F	25-Aug-01	House No.288 St. no.39  Asif abad Karachi	F.Sc.
+4579	Najam Chohan	17-Sep-83	M	28-Aug-01	Ho. # 603 street # 34  Sherazia coloney Thata	Fsc
+4580	Muneer Khurram Baig	19-May-83	M	2-Aug-01	house no.918 S No.30  Sukkan nala malir cantt Karachi	F.Sc.
+4581	Bisma Chohan	21-Feb-82	F	6-Aug-01	h no.464 St. No.25  Goth Yousaf KARACHI	HSSC
+4582	Najam Muaz	22-Feb-82	M	9-Aug-01	Ho. No. 779 St. No. 88 Dhamiyal Chishtian	A level
+4583	Kamran Durrani	24-Nov-82	M	12-Aug-01	H No. 93 s no. 83 Pwd Coloney KARACHI	HSSC
+4584	Sundas Abdul Jabbar Sameer Jaffery	24-Jul-81	F	16-Aug-01	house #  640 street no. 79 Hospital road Usman Kot	FSc
+4585	Muhammad Abdur Raziq Khan	26-Jul-81	M	19-Aug-01	h#  955 street no. 74 Cantt. road Sadiqabad	A-Level
+4586	Yawar Ansari	26-Apr-81	M	22-Aug-01	House #  269 St. #  37 Kala pul karachi	FSc
+4587	Ayesha Ejaz	28-Dec-81	F	25-Aug-01	H#  816 s#  33 Taj abad Thata	A-Level
+4588	Rana Asif Ansari	29-Jan-83	M	29-Aug-01	ho. # 130 Street No.28  Liaqat abad khr	Fsc
+4589	Umme Habiba Sehti	2-Sep-83	F	3-Aug-01	House No.445 street # 23  Model town Karachi	F.Sc.
+4590	Wajid Haq	2-May-83	M	6-Aug-01	Ho. # 991 S No.87  Karnianwala Chishtian	Fsc
+4591	Mirza Aqeel Sehti	4-Jun-83	M	9-Aug-01	house no.306 S# 82  GPO colony Karachi	F.Sc.
+4592	Naima Chatta	6-Feb-82	F	13-Aug-01	h no.621 St. No.77  Jinnah complex KARACHI	HSSC
+4593	Amna Qasim	6-Nov-82	F	16-Aug-01	Ho. No.167 s no.41  Garrizon Sadiqabad	A level
+4594	Farzan Ismaili	9-Nov-82	M	19-Aug-01	H No. 482 s no. 36 Liaqat road KARACHI	HSSC
+4595	Salma Niazi	9-Jul-82	F	22-Aug-01	Ho. no. 796 street no. 31 Asif abad Khr	A level
+4596	Ch. Sattar Ismaili	11-Apr-81	M	26-Aug-01	h#  111 St. #  27 Bara qabrustan Usman Kot	A-Level
+4597	Zakir Awan	11-Apr-81	M	29-Aug-01	House #  657 St. #  90 Landhi karachi	FSc
+4598	Zeba Ijaz	13-Jan-81	F	3-Aug-01	H#  972 Street No. 85 Shuakat coloney Chishtian	A-Level
+4599	Shariq Amjad	13-Sep-83	M	7-Aug-01	ho. #  287 street #  80 Khasra Karachi	Fsc
+4600	Rohail Namani	16-Sep-83	M	10-Aug-01	House No.833 street # 76  Lalu khait Karachi	F.Sc.
+4601	Sidra Sherazi	16-Jun-83	F	13-Aug-01	Ho. # 148 S# 39  Dak ghar Sadiqabad	Fsc
+4602	Amer Abdul Mannan Namani	18-Feb-83	M	16-Aug-01	house no.462 St. No.34   Karachi	F.Sc.
+4603	Anayyat Khanzada	20-Mar-82	M	20-Aug-01	h no.9 Street # 30  Gulshan Abad KARACHI	HSSC
+4604	Alina Rai	20-Nov-82	F	23-Aug-01	Ho. No.323 s no.25  Mujahid block Usman Kot	A level
+4605	Sahibzada Munir Khanzada	22-Jul-82	M	26-Aug-01	H No.638 street no.88  Liaqat abad KARACHI	HSSC
+4606	Najia Yosaf Hussaini	23-Aug-82	F	29-Aug-01	Ho. no. 185 St. no. 84 Model town Khr	A level
+4607	Yaar Muhammad Ismaili	25-Apr-81	M	4-Aug-01	h#  499 St. #  79 Kamra chowk Karachi	A-Level
+4608	Ghulam Yasin Asif Hussaini	25-Jan-81	M	7-Aug-01	House #  814 Street No. 42 sea site karachi	FSc
+4609	Tahira Najam	27-Jan-81	F	10-Aug-01	H#  360 Street No. 38 Pakistan hostel Sadiqabad	A-Level
+4610	Rizwan Abdul Mujeeb	27-Oct-81	M	13-Aug-01	house #  675 st. #  33 Dhamiyal Chishtian	FSc
+4611	Abdul Jabbar Haque	29-Jun-83	M	17-Aug-01	House No. 989 S#  28 Mazar e Quaid Karachi	F.Sc.
+4612	Durdana Sherazi	1-Jun-83	F	20-Aug-01	Ho. # 536 S# 92  Hospital road Usman Kot	Fsc
+4613	Karam Zaidi	3-Mar-83	M	23-Aug-01	house no.851 Street # 87  Bander road Karachi	F.Sc.
+4614	Rahmat Sajid Sherazi	5-Nov-82	M	27-Aug-01	h no.165 s no.82  Shah latif town KARACHI	HSSC
+4615	Mehak Khurshid	5-Dec-82	F	1-Aug-01	Ho. No.480 s# 78  Bhatta Karachi	A level
+4616	Hafiz Asfar Kharasani	7-Aug-82	M	4-Aug-01	H No.26 St. no.41  Defense phase III KARACHI	HSSC
+4617	Hafiz Muazzam Usmani	8-Apr-82	M	7-Aug-01	Ho. no. 341 St. #  36 Jalsa gha Sadiqabad	A level
+4618	Akram Laghari	10-May-81	M	11-Aug-01	h#  655 S No. 31 Sihaal Multan	A-Level
+4619	Aga Atif Hussaini	10-Jan-81	M	14-Aug-01	House #  202 Street No. 27 Green town karachi	FSc
+4620	Roshan Jabir	12-Oct-81	F	17-Aug-01	H#  517 st. #  90 Factory road Usman Kot	A-Level
+4621	Jan Pasha	12-Jun-81	M	20-Aug-01	house #  831 S#  85 Gulistan e Johar karachi	FSc
+4622	Aga Barkat Haque	14-Jun-83	M	24-Aug-01	House No. 378 S#  81 Dubai town Karachi	F.Sc.
+4623	Razia Pasha	15-Mar-83	F	27-Aug-01	Ho. # 692 Street # 44  Pind dadu Karachi	Fsc
+4624	Annan Zaidi	17-Nov-83	M	1-Aug-01	house no.7 s no.39  New Clifton Karachi	F.Sc.
+4625	Sh. Arman Butt	19-Dec-83	M	4-Aug-01	ho. # 553 s# 35  sea site khr	Fsc
+4626	Samra Taimor	19-Aug-82	F	8-Aug-01	Ho. No.868 St. no.30  Haider road Multan	A level
+4627	Shabi Kharasani	21-Apr-82	M	11-Aug-01	H No.183 St. # 93  Kashmir block gulshan iqbal KARACHI	HSSC
+4628	Abdullah Ansary	21-May-82	M	14-Aug-01	Ho. no.729 S No.89  Buliyan wali Usman Kot	A level
+4629	Abid Adil Kharasani	24-Jan-82	M	17-Aug-01	h no. 44 Street No. 84 Dak ghar Sadiqabad	HSSC
+4630	Iffan Ansary	24-Oct-81	M	21-Aug-01	House #  358 st. #  79 Jail road karachi	FSc
+4631	Kainat Gul	26-Oct-81	F	24-Aug-01	H#  673 st. #  43 Chandi bazar Karachi	A-Level
+4632	Murtaza Bhatti	26-Jun-81	M	27-Aug-01	house #  219 S#  38 Jam kand karachi	FSc
+4633	Jibran Ghani Satti	28-Mar-83	M	2-Aug-01	House No. 534 Street #  33 Sadiq Abad Karachi	F.Sc.
+4634	Huda Pasha	28-Mar-83	F	5-Aug-01	Ho. #  849 Street #  28 Odean chowk Multan	Fsc
+4635	Najeeb Karam Shah	2-Dec-83	M	8-Aug-01	house no.395 s# 92   Karachi	F.Sc.
+4636	Rai Osman	4-Aug-83	M	11-Aug-01	ho. # 710 St. no.87  Lohi pura Usman Kot	Fsc
+4637	Faiqa Abdul Najeeb	4-Aug-82	F	15-Aug-01	Ho. No.24 St. no.82  Chand mari Mirpur Khas	A level
+4638	Haseeb Durrani	6-May-82	M	18-Aug-01	H No.571 S No.78  Kishwar heights university road KARACHI	HSSC
+4639	Anayyat Muamar Abbasi	6-Jan-82	M	21-Aug-01	Ho. no.886 Street No.41  Khumar road Karachi	A level
+4640	Sheikh Kaleem Gondal	8-Feb-82	M	24-Aug-01	h no.200 St. No.36  Hospital road Usman Kot	HSSC
+4641	Abdur Raziq Ansary	9-Oct-81	M	28-Aug-01	House #  747 st. #  32 Tariq road karachi	FSc
+4642	Eman Arman	11-Jul-81	F	2-Aug-01	H#  61 street no. 95 Kusar coloney Multan	A-Level
+4643	Ch. Ayyaz Haqqie	11-Jul-81	M	5-Aug-01	house #  376 street no. 90 Main sadar karachi	FSc
+4644	Waqar Satti	13-Mar-81	M	8-Aug-01	h#  922 Street #  86 Kashmir block gulshan iqbal KHR	A-Level
+4645	Shaheen Raza Abdul Mujeeb Haqqie	13-Dec-83	F	12-Aug-01	Ho. #  237 s#  81 Eid gha Mirpur Khas	Fsc
+4646	Mohammed AAdil Shah	15-Dec-83	M	15-Aug-01	house no. 552 s#  44 yadgaar Karachi	F.Sc.
+4647	Yosaf Zabir	18-Sep-83	M	18-Aug-01	ho. # 98 street # 40  Noorpur Karachi	Fsc
+4648	Huma Mazhar	18-May-82	F	22-Aug-01	Ho. No.413 S No.35  College road Umer Kot	A level
+4649	M. Usman Durrani	20-May-82	M	25-Aug-01	H No.727 S No.30  Tool factory coloney KARACHI	HSSC
+4650	Rahmat Zishan Jaffery	20-Feb-82	M	28-Aug-01	Ho. no.42 St. No.94  Nai abadi Multan	A level
+4651	Sanam Durrani	22-Oct-82	F	2-Aug-01	h no.588 st. # 89  Yaseen chowk KARACHI	HSSC
+4652	Hafiz Arsalan Ansari	23-Nov-81	M	6-Aug-01	House #  903 s no. 84  karachi	FSc
+4653	Shujaat Jamil	25-Jul-81	M	9-Aug-01	H#  218 street no. 79 Daniyaal town Mirpur Khas	A-Level
+4654	Saira Safi	25-Mar-81	F	12-Aug-01	house #  764 Street #  43 Haider road Multan	FSc
+4655	Yasin Chatta	27-Apr-81	M	15-Aug-01	h#  79 St. #  38 Kishwar heights university road KHR	A-Level
+4656	Asfar Kiyyani	27-Dec-83	M	19-Aug-01	Ho. #  393 s#  33 Doley shah Umer Kot	Fsc
+4657	Uzma Khan	29-Sep-83	F	22-Aug-01	house no. 940 street #  97 Defense Phase 1 Karachi	F.Sc.
+4658	AAmer Kazmi	3-Sep-83	M	25-Aug-01	ho. # 254 street # 92  Tariq road khr	Fsc
+4659	Aneesa Firdous	3-May-83	F	28-Aug-01	House No.569 S No.87  Chandi bazar Karachi	F.Sc.
+4660	Shk. Qutab Minhas	5-Feb-82	M	3-Aug-01	H No.116 St. No.83  PRC coloney KARACHI	HSSC
+4661	Sh. Tabraiz Niazi	5-Feb-82	M	6-Aug-01	Ho. no.430 St. No.46  Chittian hattian Mirpur Khas	A level
+4662	Fazila Minhas	7-Nov-82	F	9-Aug-01	h no.745 s no.41  Odean chowk Multan	HSSC
+4663	Abdul Jabbar Sammi Awan	7-Jul-81	M	13-Aug-01	House # 291 street no.37  Gulzar-e-Quaid karachi	FSc
+4664	Rohail Iffan	10-Jul-81	M	16-Aug-01	H#  606 street no. 32 Mitran walia Umer Kot	A-Level
+4665	Khushbakht Awan	10-Apr-81	F	19-Aug-01	house #  920 St. #  95 Goth jumman karachi	FSc
+4666	Ali Namani	12-Dec-81	M	22-Aug-01	h#  467 s#  91 Tool factory coloney KHR	A-Level
+4667	Ajmal Jan Kiyyani	12-Jan-83	M	26-Aug-01	Ho. #  782 Street No. 86 Kamalia Hyderabad	Fsc
+4668	Faiqa Namani	14-Sep-83	F	29-Aug-01	house no. 96 street #  81 Sultana abad Karachi	F.Sc.
+4669	Qutab-ud-Din Tipu	16-May-83	M	3-Aug-01	ho. #  411 S No. 44 City Road Mirpur Khas	Fsc
+4670	Nadia Imtiaz	17-Jun-83	F	6-Aug-01	House No.957 S# 40  Kusar coloney Multan	F.Sc.
+4671	Sheharyar Firdous Khanzada	19-Feb-82	M	10-Aug-01	H No.272 St. No.35  Gulistan coloney KARACHI	HSSC
+4672	Agha Arsalan Niazi	19-Nov-82	M	13-Aug-01	Ho. no.586 s no.98  Bunkhar gali Umer Kot	A level
+4673	Sunera Saaleh Zakir Ismaili	21-Nov-82	F	16-Aug-01	h no.133 s no.94  Eid gha Mirpur Khas	HSSC
+4674	Mohammad Akram Niazi	21-Aug-82	M	19-Aug-01	Ho. No.448 St. no.89  Defense Phase 1 Khr	A level
+4675	Munnawar Mujeeb	23-Apr-81	M	23-Aug-01	H# 762 St. # 84  Lakhan Hyderabad	A-Level
+4676	Aaima Qudoos Paracha	24-Apr-81	F	26-Aug-01	house #  309 St. #  48 Service road karachi	FSc
+4677	M. Ikram Haqq	26-Jan-81	M	29-Aug-01	h#  623 Street No. 43 PRC coloney KHR	A-Level
+4678	Syed Mekail Paracha	26-Sep-81	M	3-Aug-01	House #  938 street #  38 Nai abadi Multan	FSc
+4679	Nazima Namani	28-Oct-83	F	7-Aug-01	house no. 484 st. #  34 Asif abad Karachi	F.Sc.
+4680	Abdus Sattar Jameel	1-Jun-83	M	10-Aug-01	ho. #  799 S#  97 Koral Umer Kot	Fsc
+4681	Nosheen Qaisar	1-Feb-83	F	13-Aug-01	House No. 114 St. No. 92 Daniyaal town Mirpur Khas	F.Sc.
+4682	Azhar Khanzada	4-Mar-82	M	17-Aug-01	H No.660 Street # 88  Goth Yousaf KARACHI	HSSC
+4683	Ahmad Usmani	4-Nov-82	M	20-Aug-01	Ho. no.975 s no.83  Byaar Hyderabad	A level
+4684	Sitara Khanzada	6-Aug-82	F	23-Aug-01	h no.289 St. no.46  Pwd Coloney KARACHI	HSSC
+4685	Jan Hussaini	6-Apr-82	M	26-Aug-01	Ho. No.604 St. # 41  Sultana abad Khr	A level
+4686	Yasin Shaheen	8-Apr-81	M	1-Aug-01	H# 151 St. # 37  Chan chirag Quetta	A-Level
+4687	Rukhsana Hussaini	9-Jan-81	F	4-Aug-01	house #  465 Street No. 0 Kala pul karachi	FSc
+4688	Azmat Aslam Haque	11-Sep-81	M	7-Aug-01	h#  780 street #  95 Gulistan coloney KHR	A-Level
+4689	Tanveer Paracha	11-Oct-81	M	10-Aug-01	House #  326 st. #  91 Chittian hattian Mirpur Khas	FSc
+4690	Wajida Haque	13-Jun-83	F	14-Aug-01	house no. 641 S#  86 Model town Karachi	F.Sc.
+4691	Fakhir Pervaiz	15-Feb-83	M	17-Aug-01	ho. #  955 St. No. 49 Farman block Hyderabad	Fsc
+4692	Moeena Sultan	15-Mar-83	F	20-Aug-01	House No. 502 Street #  45 Mitran walia Umer Kot	F.Sc.
+4693	Abu Bakr Butt	18-Nov-83	M	23-Aug-01	Ho. # 817 s no.40  Service road khr	Fsc
+4694	Ghazanfar Husain Usmani	18-Aug-82	M	27-Aug-01	Ho. no.131 St. no.35  Ghosia masjid chwok Quetta	A level
+4695	Naseema Kharasani	20-Aug-82	F	1-Aug-01	h no.678 St. no.99  Liaqat road KARACHI	HSSC
+4696	Kamal Tahir Ansary	20-Apr-82	M	4-Aug-01	Ho. No.992 St. # 94  Asif abad Khr	A level
+4697	Rahmat Furqan	22-Jan-81	M	8-Aug-01	H# 307 Street No.89  Darian Sibbi	A-Level
+4698	Saalia Bhatti	22-Jan-81	F	11-Aug-01	house # 853 Street No.85  Landhi karachi	FSc
+4699	Shk. Abdus Sattar Laghari	25-Oct-81	M	14-Aug-01	h#  168 st. #  48 Illyas abad Hyderabad	A-Level
+4700	Zulfiqar Pasha	25-Jun-81	M	17-Aug-01	House #  483 S#  43 Bunkhar gali Umer Kot	FSc
+4701	Aneela Shah	27-Jun-83	F	21-Aug-01	house no. 29 S#  39 Lalu khait Karachi	F.Sc.
+4702	Emmad Najam	29-Mar-83	M	24-Aug-01	ho. #  344 Street #  34 Muzafar shah Quetta	Fsc
+4703	Rabia Tipu	29-Nov-83	F	27-Aug-01	House No. 658 s no. 97 Lakhan Hyderabad	F.Sc.
+4704	Raja Abdul Najeeb Butt	2-Dec-83	M	1-Aug-01	Ho. #  973 s#  92 Kala pul khr	Fsc
+4705	Mouhammed Farrukh Abbasi	3-Aug-82	M	5-Aug-01	Ho. no.519 St. no.88  Mandi Sibbi	A level
+4706	Qudsia Chodhary Abdul Rafay Kharasani	5-May-82	F	8-Aug-01	h no.834 S No.51  Liaqat abad KARACHI	HSSC
+4707	Firdous Shariq Ansary	5-May-82	M	11-Aug-01	Ho. No.149 S No.46  Model town Khr	A level
+4708	Rai Khurshid	7-Jan-82	M	14-Aug-01	H No.695 Street No.42  Koral Umer Kot	HSSC
+4709	Mahnoor Talha Bhatti	7-Oct-81	F	18-Aug-01	house # 10 st. # 37  sea site karachi	FSc
+4710	Qudoos Satti	9-Oct-81	M	21-Aug-01	h# 324 st. # 0  Saat meel Quetta	A-Level
+4711	Immad Niaz Bhatti	10-Jul-81	M	24-Aug-01	House #  871 street no. 96 Byaar Hyderabad	FSc
+4712	Nirma Shah	12-Mar-83	F	28-Aug-01	house no. 185 Street #  91 Mazar e Quaid Karachi	F.Sc.
+4713	Mahnoor Khan	14-Mar-83	F	2-Aug-01	ho. #  500 Street #  86 Zeeshan coloney Township khr	Fsc
+4714	Saroor Shabi	14-Dec-83	M	5-Aug-01	House No. 47 s#  50 Chan chirag Quetta	F.Sc.
+4715	Alam Ubaid	16-Aug-83	M	8-Aug-01	Ho. #  361 St. no. 45 Kotlia Hyderabad	Fsc
+4716	Zara Ansari	16-Sep-82	F	12-Aug-01	Ho. no. 676 street #  40 Jam kand Khr	A level
+4717	Jamal Yosaf Khattak	19-May-82	M	15-Aug-01	h no.222 S No.36  Jaamia Masjid road Sibbi	HSSC
+4718	Tabraiz Haq	19-Jan-82	M	18-Aug-01	Ho. No.537 Street No.99  Lalu khait Khr	A level
+4719	Zil-e-Huma Sehti	21-Feb-82	F	21-Aug-01	H No.851 St. No.94  Sultan coloney KARACHI	HSSC
+4720	Arman Akmal	21-Oct-81	M	25-Aug-01	house # 398 st. # 89  Sukkhan abad Wahari	FSc
+4721	Ijaz Rohail Baig	23-Jul-81	M	28-Aug-01	h# 713 street no.53  Gulshan Abad KHR	A-Level
+4722	Atif Chatta	24-Jul-81	M	2-Aug-01	House #  27 street no. 48 Gulistan e Johar karachi	FSc
+4723	Abdul Najeeb Abid Baig	26-Mar-81	M	5-Aug-01	H#  342 Street #  43 Kamalia Hyderabad	A-Level
+4724	Bushra Chatta	28-Dec-83	F	9-Aug-01	ho. #  888 s#  39 Town ship near Barkat chowk khr	Fsc
+4725	Rasheed Kalim	28-Dec-83	M	12-Aug-01	House No. 203 s#  2 Darian Sibbi	F.Sc.
+4726	Ghazanfar Haseen	1-Sep-83	M	15-Aug-01	Ho. #  517 street #  97 Kumria Quetta	Fsc
+4727	Sidra Kazmi	1-May-82	F	19-Aug-01	Ho. no. 64 S No. 93 Main sadar Khr	A level
+4728	Mazhar Khattak	4-May-82	M	22-Aug-01	h no.379 S No.88  post office Wahari	HSSC
+4729	Islam Mahtab Minhas	4-Feb-82	M	25-Aug-01	Ho. No.693 St. No.51  Mazar e Quaid Khr	A level
+4730	Ambreen Niazi	6-Oct-82	F	28-Aug-01	H No.240 st. # 47  Zeeshan coloney Township KARACHI	HSSC
+4731	Amjad Rasheed	6-Nov-81	M	3-Aug-01	house # 554 s no.42  Karkhana road Lyyah	FSc
+4732	Taimor Emmad Awan	8-Jul-81	M	6-Aug-01	h# 869 street no.37  Shah latif town KHR	A-Level
+4733	Azra Karam Aqeel Haq	8-Mar-81	F	9-Aug-01	House # 416 Street # 1  Mandi Sibbi	FSc
+4734	Momd. Khalid Kiyyani	11-Apr-81	M	12-Aug-01	H#  730 St. #  96 Purana shehar Quetta	A-Level
+4735	Rija Aga Viqar-ul-Islam Namani	13-Dec-83	F	16-Aug-01	ho. #  45 s#  91 Yaseen chowk khr	Fsc
+4736	Zil-e-Ali Ajab	13-Sep-83	M	19-Aug-01	House No. 591 street #  54 Mitthian Wahari	F.Sc.
+4737	Rohail Daud	15-Sep-83	M	22-Aug-01	Ho. #  906 street #  50 Afangi block Sibbi	Fsc
+4738	Nozhat Abdul Qadir Kazmi	15-Jun-83	F	25-Aug-01	house no. 220 S#  45 Gulshan Abad Karachi	F.Sc.
+4739	Nazeer Qureshi	17-Feb-82	M	29-Aug-01	h no. 535 St. No. 40 Hamdarad road Lyyah	HSSC
+4740	Mirza Rayyan Ismaili	18-Feb-82	M	3-Aug-01	Ho. No.82 St. No.4  Dubai town Khr	A level
+4741	Nafia Niazi	20-Nov-82	F	6-Aug-01	H No.396 s no.99  Town ship near Barkat chowk KARACHI	HSSC
+4742	Qutab Haseeb	20-Jul-82	M	9-Aug-01	Ho. no.711 street no.94  Chan chirag Quetta	A level
+4743	Rana Saleem Awan	22-Aug-81	M	13-Aug-01	h# 257 St. no.90  Samanabad KHR	A-Level
+4744	Nafia Haqq	22-Apr-81	F	16-Aug-01	House # 572 St. # 53  Main workshop Wahari	FSc
+4745	Shabir Paracha	24-Dec-81	M	19-Aug-01	H# 886 s# 48  Jaamia Masjid road Sibbi	A-Level
+4746	Haleema Muhammad Yousaf Namani	27-Sep-83	F	23-Aug-01	ho. #  433 street #  44 Bhutto complex khr	Fsc
+4747	Shams-ul-Islam Osama	27-Sep-83	M	26-Aug-01	House No. 748 street #  39 Kachi abadi Lyyah	F.Sc.
+4748	Aga Bulbul Namani	29-Jun-83	M	29-Aug-01	Ho. #  62 S#  2 Jail road khr	Fsc
+4749	Sumiyya Khanzada	29/Feb/83	F	3-Aug-01	house no. 609 St. No. 98 Shah latif town Karachi	F.Sc.
+4750	Mehmood Muaz Usmani	2-Feb-82	M	7-Aug-01	h no. 923 St. No. 93 Dehri Thata	HSSC
+4751	Ghazanfar Khanzada	2-Nov-82	M	10-Aug-01	Ho. No. 238 s no. 56 Sadiq Abad Khr	A level
+4752	Tayyaba Choudhary Mujeeb Hussaini	5-Jul-82	F	13-Aug-01	H No.784 street no.52  Yaseen chowk KARACHI	HSSC
+4753	Abdus Sattar Hussain	5-Aug-82	M	16-Aug-01	Ho. no.99 St. no.47  Darian Sibbi	A level
+4754	Muhammad Kamal Hussaini	7-Apr-81	M	20-Aug-01	h# 414 St. # 42  New air port KHR	A-Level
+4755	Aneela Haqq	7-Dec-81	F	23-Aug-01	House # 960 s# 5  Nizam pur Lyyah	FSc
+4756	Azam AAqil Paracha	9-Jan-81	M	26-Aug-01	H# 275 Street No.1  post office Wahari	A-Level
+4757	Rizwana Haque	12-Sep-81	F	29-Aug-01	house #  589 street #  96 Dubai town karachi	FSc
+4758	Suleman Rashid	12-Jun-83	M	4-Aug-01	House No. 904 S#  91 Karimabad Thata	F.Sc.
+4759	Aftab Abdul Najeeb Zaidi	14-Jun-83	M	7-Aug-01	Ho. #  450 S#  55 Tariq road khr	Fsc
+4760	Farha Sherazi	14-Feb-83	F	10-Aug-01	house no. 765 St. No. 50 Samanabad Karachi	F.Sc.
+4761	Chodhary Faisal Usmani	16-Nov-82	M	14-Aug-01	h no. 80 s no. 45 Ramzania Chishtian	HSSC
+4762	Iqbal Kharasani	16-Nov-82	M	17-Aug-01	Ho. No. 626 s no. 41 Kasmmir market Gulshan-e-Iqbal Khr	A level
+4763	Asiya Tipo	19-Aug-82	F	20-Aug-01	H No.941 St. no.4  Jamia masjid chowk Lyyah	HSSC
+4764	Farrukh Daniyal	19-Apr-82	M	23-Aug-01	Ho. no.255 St. # 99  Mitthian Wahari	A level
+4765	Anayyat Nadeem Hussaini	21-Apr-81	M	27-Aug-01	h# 802 St. # 95  Sukkan nala malir cantt KHR	A-Level
+4766	Nimra Laghari	21-Jan-81	F	1-Aug-01	House # 116 Street No.90  Mutian wala Thata	FSc
+4767	Aga Qudoos Pasha	23-Sep-81	M	4-Aug-01	H# 431 street # 53  Tool factory coloney KHR	A-Level
+4768	Batool Haque	25-Oct-81	F	7-Aug-01	house # 978 st. # 49  Sadiq Abad karachi	FSc
+4769	Fazal Mujeeb	26-Jun-83	M	11-Aug-01	House No. 292 S#  44 Cement factory coloney Chishtian	F.Sc.
+4770	Mukhtar Zaidi	28-Mar-83	M	14-Aug-01	Ho. #  607 Street #  7  khr	Fsc
+4771	Maheen Butt	28-Mar-83	F	17-Aug-01	house no. 153 Street #  2 New air port Karachi	F.Sc.
+4772	Momin Abbasi	1-Nov-83	M	20-Aug-01	ho. #  468 s no. 98 Main workshop Wahari	Fsc
+4773	Fakhar Siraj Kharasani	1-Aug-82	M	24-Aug-01	Ho. No. 782 St. no. 93 Amer Villas university road Khr	A level
+4774	Anjum Satti	3-Aug-82	F	27-Aug-01	H No. 329 St. no. 56 sea view housing society KARACHI	HSSC
+4775	Saeed Furqan	4-May-82	M	1-Aug-01	Ho. no.644 S No.52  Kachi abadi Lyyah	A level
+4776	Mohammad Amjad Shah	6-Jan-81	M	5-Aug-01	h# 958 Street No.47  GPO colony KHR	A-Level
+4777	Aneela Chohan	6-Jan-81	F	8-Aug-01	House # 273 Street No.42  Dhamiyal Chishtian	FSc
+4778	Kishwar Saleem Baig	8-Oct-81	M	11-Aug-01	H# 819 st. # 6  Dehri Thata	A-Level
+4779	Tipu Durrani	10-Jun-81	M	14-Aug-01	house # 134 S# 1  Kasmmir market Gulshan-e-Iqbal karachi	FSc
+4780	Rozina Najeeb	10-Jul-83	F	18-Aug-01	House No.449 street no.96  Cantt. road Sadiqabad	F.Sc.
+4781	Saroor Durrani	13-Mar-83	M	21-Aug-01	Ho. #  995 Street #  92 Gulzar-e-Quaid khr	Fsc
+4782	Sheikh Arif Ansari	13-Nov-83	M	24-Aug-01	house no. 310 s no. 55 Sukkan nala malir cantt Karachi	F.Sc.
+4783	Naseema Khattak	15-Dec-83	F	27-Aug-01	ho. #  624 s#  50 Nizam pur Lyyah	Fsc
+4784	Hussain Zameer Ansari	15-Aug-82	M	2-Aug-01	Ho. No. 171 St. no. 46 Defense Phase IV Khr	A level
+4785	Jabeen Sehti	17-May-82	F	5-Aug-01	H No. 485 S No. 9 Pwd Coloney KARACHI	HSSC
+4786	Saroor Rafi	17-May-82	M	8-Aug-01	Ho. no. 800 S No. 4 Karimabad Thata	A level
+4787	Ejaz Sehti	20-Jan-82	M	11-Aug-01	h no.347 Street No.99   KARACHI	HSSC
+4788	Nirma Osama Kaleem Chatta	20-Oct-81	F	15-Aug-01	House # 661 st. # 95  Garrizon Sadiqabad	FSc
+4789	Sh. Daniyal Baig	22-Oct-81	M	18-Aug-01	H# 976 st. # 58  Ramzania Chishtian	A-Level
+4790	Abdur Rahman Chatta	24-Jul-81	M	21-Aug-01	house # 522 street no.53  Amer Villas university road karachi	FSc
+4791	Sajeela Jamal	24-Mar-83	F	25-Aug-01	House No.837 Street # 49  Bara qabrustan Usman Kot	F.Sc.
+4792	Soneel Khan	27-Mar-83	M	28-Aug-01	Ho. #  151 Street #  44 Race course road khr	Fsc
+4793	Ramzan Sohail Kazmi	27-Dec-83	M	2-Aug-01	house no. 466 s#  7 GPO colony Karachi	F.Sc.
+4794	Qudsia Kamran Viqar Khattak	29-Aug-83	F	5-Aug-01	ho. #  13 St. no. 3 Mutian wala Thata	Fsc
+4795	Choudhary Nazeer Minhas	29-Sep-82	M	9-Aug-01	Ho. No. 327 street #  98 Zeenat block Khr	A level
+4796	Malik Pervaiz	2-May-82	M	12-Aug-01	H No. 642 S No. 93 Dak ghar Sadiqabad	HSSC
+4797	Rasheed Salim	2-Jan-82	M	15-Aug-01	Ho. no. 188 Street No. 57 Cement factory coloney Chishtian	A level
+4798	Tabraiz Awan	5-Feb-82	M	18-Aug-01	h no.503 St. No.52  Gulzar-e-Quaid KARACHI	HSSC
+4799	Madiha Haq	5-Oct-81	F	22-Aug-01	House # 817 st. # 47  Mujahid block Usman Kot	FSc
+4800	Adila Emmad	7-Jul-82	F	25-Aug-02	H# 364 street no.11  Bakra mandi Sadiqabad	A-Level
+4801	Babar Awan	9-Jul-82	M	28-Aug-02	house # 679 street no.6  Defense Phase IV karachi	FSc
+4802	Nighat Namani	9-Apr-82	F	2-Aug-02	h# 993 St. # 1  Pwd Coloney KHR	A-Level
+4803	Agha Khalid Kiyyani	11-Dec-84	M	6-Aug-02	Ho. # 540 s# 97  Lohi pura Usman Kot	Fsc
+4804	Ch. Taimor Namani	12-Dec-84	M	9-Aug-02	house no. 854 s#  60  Karachi	F.Sc.
+4805	Abida M. Niaz Khanzada	14-Sep-84	F	12-Aug-02	ho. #  169 street #  55 Kala pul khr	Fsc
+4806	Nazeer Yasin	14-May-84	M	15-Aug-02	House No. 715 S No. 50 Dehri Thata	F.Sc.
+4807	Munir Khanzada	16-Jun-83	M	19-Aug-02	H No. 30 S#  46 Liaqat abad KARACHI	HSSC
+4808	Shafaq Niazi	16-Feb-83	F	22-Aug-02	Ho. no. 345 St. No. 9 Cantt. road Sadiqabad	A level
+4809	Haseeb Ismaili	18-Oct-83	M	25-Aug-02	h no. 891 st. #  4 Landi Chishtian	HSSC
+4810	Talha Furqan Hussaini	19-Jul-82	M	29-Aug-02	House # 206 street no.0  sea site karachi	FSc
+4811	Nazma Soneel	21-Jul-82	F	3-Aug-02	H# 520 street no.95  Shakrial Usman Kot	A-Level
+4812	Anwer Paracha	23-Apr-82	M	6-Aug-02	house # 835 St. # 58  Zeenat block karachi	FSc
+4813	Umber Daud Haqq	23-Dec-82	F	9-Aug-02	h# 381 s# 54  Liaqat road KHR	A-Level
+4814	Firdous Haseeb Sherazi	25-Dec-84	M	13-Aug-02	Ho. # 696 s# 49  Noorpur Karachi	Fsc
+4815	Farooq Zaidi	25-Sep-84	M	16-Aug-02	house no.11 street # 12  Bander road Karachi	F.Sc.
+4816	Mahnoor Shahroze	28-May-84	F	19-Aug-02	ho. #  557 S No. 8 Garrizon Sadiqabad	Fsc
+4817	Shabir Karam Illahi	28-Jun-84	M	22-Aug-02	House No. 872 S#  3 Ramzania Chishtian	F.Sc.
+4818	Azhar Khanzada	1-Feb-83	M	26-Aug-02	H No. 186 St. No. 98 Defense phase III KARACHI	HSSC
+4819	Saima Usmani	1-Oct-83	F	29-Aug-02	Ho. no. 733 st. #  62 Bara qabrustan Usman Kot	A level
+4820	Shehzad Munnawar Laghari	3-Nov-83	M	3-Aug-02	h no. 47 s no. 57 Sultan coloney KARACHI	HSSC
+4821	Mekail Hussaini	3-Jul-83	M	6-Aug-02	Ho. No. 362 street no. 52  Khr	A level
+4822	Aaila Zishan	6-Apr-82	F	10-Aug-02	H# 909 St. # 47  Khasra Karachi	A-Level
+4823	Hafiz Jan Paracha	8-Apr-82	M	13-Aug-02	house # 223 St. # 11  Gulistan e Johar karachi	FSc
+4824	Shehla Haque	8-Dec-82	F	16-Aug-02	h# 538 s# 6  Liaqat abad KHR	A-Level
+4825	Mouhammed Yousaf Pasha	10-Sep-84	M	20-Aug-02	Ho. # 84 street # 1  Farooqia Multan	Fsc
+4826	Rehan Zaidi	10-Sep-84	M	23-Aug-02	house no.399 street # 97  New Clifton Karachi	F.Sc.
+4827	Khurshid Immad	13-Jun-84	F	26-Aug-02	ho. #  714 S#  60 Mujahid block Usman Kot	Fsc
+4828	Anjum Abid	13-Feb-84	M	29-Aug-02	House No. 260 St. No. 55 Bakra mandi Sadiqabad	F.Sc.
+4829	Aga Najam Kharasani	15-Mar-83	M	4-Aug-02	H No. 575 Street #  51 Kashmir block gulshan iqbal KARACHI	HSSC
+4830	Rozina Munnawar Qudoos Ansary	15-Nov-83	F	7-Aug-02	Ho. no. 889 s no. 46 Kamra chowk Karachi	A level
+4831	Sheikh Aslam Kharasani	17-Jul-83	M	10-Aug-02	h no. 204 street no. 9 Zeeshan coloney Township KARACHI	HSSC
+4832	Tanveer Bhatti	17-Aug-83	M	13-Aug-02	Ho. No. 750 St. no. 5 Bander road Khr	A level
+4833	Wajiha Zeeshan	20-Apr-82	F	17-Aug-02	H# 65 St. # 0  Basti Multan	A-Level
+4834	Sahibzada Naeem Shah	22-Jan-82	M	20-Aug-02	house # 380 Street No.63  Jam kand karachi	FSc
+4835	Adnan Durrani	22-Jan-82	M	23-Aug-02	h# 926 Street No.59  Defense phase III KHR	A-Level
+4836	 Jaffery	24-Sep-82	F	26-Aug-02	House # 241 street # 54  Cantt. road Sadiqabad	FSc
+4837	Adul Qudoos Durrani	24-Jun-84	M	1-Aug-02	house no.555 S# 49   Karachi	F.Sc.
+4838	Mouhammad Immad Ansari	26-Jun-84	M	4-Aug-02	ho. # 102 S# 12  Green town khr	Fsc
+4839	Rohi Zahid	27-Mar-84	F	7-Aug-02	House No. 416 Street #  8 Shakrial Usman Kot	F.Sc.
+4840	M. AAmir Ansari	29-Nov-83	M	11-Aug-02	H No. 731 s no. 3 Kishwar heights university road KARACHI	HSSC
+4841	Mekail Sehti	29-Nov-83	M	14-Aug-02	Ho. no. 278 s no. 98 Sihaal Multan	A level
+4842	Rizwan Annan Haqqie	2-Aug-83	M	17-Aug-02	h no. 592 St. no. 62 Noorpur Karachi	HSSC
+4843	Fakhir Sehti	2-Apr-83	M	20-Aug-02	Ho. No. 907 St. #  57 New Clifton Khr	A level
+4844	Batool Ghulam Mustafa	4-May-82	F	24-Aug-02	H#  453 S No. 52 Malik abad Mirpur Khas	A-Level
+4845	Rai Nazar Baig	7-Jan-82	M	27-Aug-02	house # 768 Street No.48  Main sadar karachi	FSc
+4846	Kishwar Chatta	7-Sep-82	M	1-Aug-02	h# 82 street # 11  Kashmir block gulshan iqbal KHR	A-Level
+4847	Noor Aun Annan Jaffery	9-Oct-82	F	4-Aug-02	House # 397 st. # 6  Bara qabrustan Usman Kot	FSc
+4848	Jan Ibraheem Khan	9-Jun-84	M	8-Aug-02	house no.944 S# 2  yadgaar Karachi	F.Sc.
+4849	Zabir Saroor	11-Mar-84	M	11-Aug-02	ho. # 258 Street # 65  Haider road Multan	Fsc
+4850	Samman Zubair	11-Mar-84	F	14-Aug-02	House No.573 Street # 60  Khasra Karachi	F.Sc.
+4851	Anjum Aslam Ansari	14-Nov-84	M	17-Aug-02	Ho. #  119 s no. 56 Jam kand khr	Fsc
+4852	Aftab Qudoos Khattak	14-Aug-83	M	21-Aug-02	Ho. no. 434 St. no. 51 Railway line Mirpur Khas	A level
+4853	Zareen Haq	16-Aug-83	F	24-Aug-02	h no. 748 St. no. 14 Yaseen chowk KARACHI	HSSC
+4854	Masroor Bashir Sehti	16-May-83	M	27-Aug-02	Ho. No. 295 S No. 10  Khr	A level
+4855	Wajiha Abdul Wasay	18-Jan-82	F	2-Aug-02	H#  610 Street No. 5 Saidpur road Umer Kot	A-Level
+4856	Ijaz Baig	18-Jan-82	M	5-Aug-02	house #  924 Street No. 0 Gulshan Iqbal karachi	FSc
+4857	Mohammad Zulfiqar Chatta	21-Oct-82	M	8-Aug-02	h# 471 st. # 63  Kishwar heights university road KHR	A-Level
+4858	Iqra Abdul Malik Iffan Kiyyani	23-Jun-82	F	11-Aug-02	House # 785 S# 59  Kamra chowk Karachi	FSc
+4859	Sahibzada Kamal Khan	23-Jul-84	M	15-Aug-02	house no.100 street no.54  Defense Phase 1 Karachi	F.Sc.
+4860	Abu Bakr Shan	25-Mar-84	M	18-Aug-02	ho. # 646 Street # 49  Chand mari Mirpur Khas	Fsc
+4861	Anjum Shazil	25-Dec-84	F	21-Aug-02	House No.961 s# 13  Basti Multan	F.Sc.
+4862	Qutab Minhas	28-Dec-84	M	24-Aug-02	Ho. #  276 s#  8 Main sadar khr	Fsc
+4863	Zamir Abdus Sattar Niazi	28-Aug-83	M	28-Aug-02	Ho. no. 822 St. no. 3 Purani Taal Umer Kot	A level
+4864	Nida Minhas	1-May-83	F	2-Aug-02	h no. 137 S No. 67 Bhutto complex KARACHI	HSSC
+4865	Rana Haseeb Awan	1-May-83	M	5-Aug-02	Ho. No. 451 S No. 62 yadgaar Khr	A level
+4866	Benazir Shakeel	3-Feb-83	F	8-Aug-02	H No. 766 St. No. 57 Bhatta Karachi	HSSC
+4867	Rashid Awan	3-Oct-82	M	12-Aug-02	house #  312 st. #  53 Goth jumman karachi	FSc
+4868	Iqbal Namani	6-Oct-82	M	15-Aug-02	h# 627 st. # 16  Eid gha Mirpur Khas	A-Level
+4869	Zahida Kiyyani	8-Jul-82	F	18-Aug-02	House # 942 street no.11  Sihaal Multan	FSc
+4870	Husain Namani	8-Mar-82	M	21-Aug-02	H# 488 Street # 7  Yaseen chowk KHR	A-Level
+4871	Waqar Kabir	10-Dec-84	M	25-Aug-02	ho. # 803 s# 2  College road Umer Kot	Fsc
+4872	Nafisa Zulqur nain	10-Dec-84	F	28-Aug-02	House No.117 s# 65  Malik abad Mirpur Khas	F.Sc.
+4873	Muneer Khanzada	12-Aug-84	M	2-Aug-02	Ho. # 664 St. no.60  Gulshan Iqbal khr	Fsc
+4874	Immad Niazi	13-May-83	M	6-Aug-02	Ho. no. 979 S No. 56 Karki Hyderabad	A level
+4875	Shahina Momd. Najeeb Ismaili	15-May-83	F	9-Aug-02	h no. 293 S No. 51 sea view housing society KARACHI	HSSC
+4876	Mohammed Shehzad Niazi	15-Feb-83	M	12-Aug-02	Ho. No. 840 St. No. 14 Defense Phase 1 Khr	A level
+4877	Huda Farman	17-Oct-83	F	15-Aug-02	H No. 154 st. #  10 Haider road Multan	HSSC
+4878	Sahibzada Salim Awan	17-Oct-82	M	19-Aug-02	house #  469 st. #  5 Service road karachi	FSc
+4879	Fakhar Haqq	19-Jul-82	M	22-Aug-02	h#  15 street no. 68 Doley shah Umer Kot	A-Level
+4880	Rashda Paracha	22-Mar-82	F	25-Aug-02	House # 330 Street # 64  Railway line Mirpur Khas	FSc
+4881	Nazar Javed Namani	22-Apr-82	M	28-Aug-02	H# 645 St. # 59  Bhutto complex KHR	A-Level
+4882	Hameed Abdul Basit	24-Dec-84	M	3-Aug-02	ho. # 191 s# 54  Kotlia Hyderabad	Fsc
+4883	Nadia Ajmal Namani	24-Aug-84	F	6-Aug-02	House No.506 St. no.18  Sukkan nala malir cantt Karachi	F.Sc.
+4884	Ch. Talha Khanzada	26-Sep-84	M	9-Aug-02	Ho. # 820 street # 13  Goth jumman khr	Fsc
+4885	Emmad-ud-Din Jabbar Usmani	26-May-84	M	12-Aug-02	house no.135 S No.8  Odean chowk Multan	F.Sc.
+4886	Khushbakht Khanzada	29/Feb/83	F	16-Aug-02	h no. 681 St. No. 4 Pwd Coloney KARACHI	HSSC
+4887	Shabir Hussaini	29/Feb/83	M	19-Aug-02	Ho. No. 996 St. No. 67 Sultana abad Khr	A level
+4888	Alina Anayyat	2-Oct-83	F	22-Aug-02	H No. 311 st. #  62 Chand mari Mirpur Khas	HSSC
+4889	Zeeshan Yaseen Hussaini	2-Jul-82	M	26-Aug-02	house #  857 street no. 57 Kala pul karachi	FSc
+4890	Mouhammad Qamar Haque	4-Jul-82	M	29-Aug-02	h#  172 street no. 53 Kamalia Hyderabad	A-Level
+4891	Zunera Paracha	6-Apr-82	F	3-Aug-02	House #  486 St. #  16 Purani Taal Umer Kot	FSc
+4892	Yusaf Shahid Haque	7-Dec-82	M	6-Aug-02	H# 33 s# 11  sea view housing society KHR	A-Level
+4893	Ibraheem Abdul Qadeer	9-Jan-84	M	10-Aug-02	ho. # 347 Street No.7  Kumria Quetta	Fsc
+4894	Naima Nadir	9-Sep-84	F	13-Aug-02	House No.662 street # 2  Illyas abad Hyderabad	F.Sc.
+4895	Raja Sammi Bhatti	11-May-84	M	16-Aug-02	Ho. # 209 S No.65  Service road khr	Fsc
+4896	Abdul Haseeb Satti	11-Jun-84	M	19-Aug-02	house no.523 S# 61  Eid gha Mirpur Khas	F.Sc.
+4897	Noor Jahan Bhatti	14-Feb-83	F	23-Aug-02	h no. 838 St. No. 56 Liaqat road KARACHI	HSSC
+4898	Muslim Shah	14-Nov-83	M	26-Aug-02	Ho. No. 384 s no. 19 Asif abad Khr	A level
+4899	Shan Inayyat	16-Nov-83	M	29-Aug-02	H No. 699 s no. 15 College road Umer Kot	HSSC
+4900	Kaneez Shah	16-Jul-83	F	3-Aug-02	Ho. no. 13 street no. 10 Sukkan nala malir cantt Khr	A level
+4901	Qasim Durrani	18-Apr-82	M	7-Aug-02	h#  328 St. #  5 Purana shehar Quetta	A-Level
+4902	Rayyan Abbasi	20-Apr-82	M	10-Aug-02	House #  875 St. #  69 Karki Hyderabad	FSc
+4903	Riffat Durrani	21-Jan-82	F	13-Aug-02	H# 189 Street No.64  Pwd Coloney KHR	A-Level
+4904	Rafi AAqil	23-Sep-84	M	17-Aug-02	ho. # 504 street # 59  Afangi block Sibbi	Fsc
+4905	Babra Jan	23-Sep-84	F	20-Aug-02	House No.50 street # 55  Saat meel Quetta	F.Sc.
+4906	M. AAmer Ansari	25-Jun-84	M	23-Aug-02	Ho. # 365 S# 18  Kala pul khr	Fsc
+4907	Shabir Saeed Satti	25-Feb-84	M	26-Aug-02	house no.679 St. No.13  Doley shah Umer Kot	F.Sc.
+4908	Jameela Haqqie	27-Mar-83	F	1-Aug-02	h no.226 Street # 8  Liaqat abad KARACHI	HSSC
+4909	Yaseen Saaleh Satti	28-Nov-83	M	4-Aug-02	Ho. No. 541 s no. 4 Model town Khr	A level
+4910	Obaid Ghazi	1-Jul-83	M	7-Aug-02	H No. 855 street no. 67 Kotlia Hyderabad	HSSC
+4911	Huda Shazil Baig	1-Aug-83	F	10-Aug-02	Ho. no. 402 St. no. 62 GPO colony Khr	A level
+4912	Mohammed Nazir Chohan	3-Apr-82	M	14-Aug-02	h#  716 St. #  58 Jaamia Masjid road Sibbi	A-Level
+4913	Faizan Munir Jaffery	5-Jan-82	M	17-Aug-02	House #  31 Street No. 21 Surahi bazar Quetta	FSc
+4914	Sibqat Durrani	5-Jan-82	F	20-Aug-02	H#  577 Street No. 16 Liaqat road KHR	A-Level
+4915	Inayyat Sohail	8-Sep-82	M	23-Aug-02	house # 892 street # 12  Mitran walia Umer Kot	FSc
+4916	Mohammad Nadir Khattak	8-Jun-84	M	27-Aug-02	House No.207 S# 7  Bander road Karachi	F.Sc.
+4917	Shuja Shams Ansari	10-Jun-84	M	1-Aug-02	Ho. # 753 S# 70  Landhi khr	Fsc
+4918	Rana Azam Khattak	10-Mar-84	M	4-Aug-02	house no.68 Street # 66  Kamalia Hyderabad	F.Sc.
+4919	Eman Syyed Waqas Haqqie	12-Nov-83	F	8-Aug-02	h no.382 s no.61  Defense phase III KARACHI	HSSC
+4920	Kabir Hayyat Sehti	12-Nov-83	M	11-Aug-02	Ho. No.697 s no.56  Lalu khait Khr	A level
+4921	Sultan Karam	15-Aug-83	M	14-Aug-02	H No. 244 St. no. 20 Kumria Quetta	HSSC
+4922	Zareen Baig	15-Apr-83	F	17-Aug-02	Ho. no. 558 St. #  15  Khr	A level
+4923	Sheharyar Chatta	17-May-82	M	21-Aug-02	h#  873 S No. 10 post office Wahari	A-Level
+4924	Iqbal Badar Baig	19-Jan-82	M	24-Aug-02	House #  419 Street No. 5 Biyaal Sibbi	FSc
+4925	Kainat Khan	19-Oct-82	F	27-Aug-02	H#  734 st. #  69 Liaqat abad KHR	A-Level
+4926	Gul Raza	21-Oct-82	M	1-Aug-02	house #  48 st. #  64 Lakhan Hyderabad	FSc
+4927	Sh. Abdul Hameed Khan	22-Jun-84	M	5-Aug-02	House No.595 S# 59  New Clifton Karachi	F.Sc.
+4928	Qutab-ud-Din Kazmi	24-Mar-84	M	8-Aug-02	Ho. # 910 Street # 23  sea site khr	Fsc
+4929	Barkat Khattak	24-Mar-84	M	11-Aug-02	house no.224 Street # 18  Purana shehar Quetta	F.Sc.
+4930	Kausar Muhammad Azhar Minhas	26-Dec-84	F	14-Aug-02	ho. # 771 s# 13  Zeenat block khr	Fsc
+4931	Abdus Sammi Immad	26-Aug-83	M	18-Aug-02	Ho. No.85 St. no.9  Mitthian Wahari	A level
+4932	Hameed Saeed	29-Aug-83	M	21-Aug-02	H No. 400 St. no. 72 Afangi block Sibbi	HSSC
+4933	Malika Awan	29-May-83	F	24-Aug-02	Ho. no. 946 S No. 67 Bander road Khr	A level
+4934	Muslim Shaheen Haq	2-Jan-83	M	27-Aug-02	h no. 261 Street No. 63 Byaar Hyderabad	HSSC
+4935	Fakhar Kiyyani	4-Oct-82	M	2-Aug-02	House #  576 st. #  58 Shah malung Wahari	FSc
+4936	Noor-ul-Ain M. Gul Chatta	4-Oct-82	F	5-Aug-02	H#  122 st. #  21 Defense phase III KHR	A-Level
+4937	Jamal Ghulam Mustafa	6-Jun-82	M	8-Aug-02	house #  437 S#  17 Chan chirag Quetta	FSc
+4938	Kashif Sameer Qureshi	7-Mar-84	M	12-Aug-02	House No.751 Street # 12   Karachi	F.Sc.
+4939	Mouhammad Suleman Kazmi	9-Mar-84	M	15-Aug-02	Ho. # 66 Street # 7  Green town khr	Fsc
+4940	Rohail Qureshi	9-Dec-84	M	18-Aug-02	house no.612 s# 70  Jaamia Masjid road Sibbi	F.Sc.
+4941	Mahreen Minhas	11-Aug-84	F	21-Aug-02	ho. # 927 St. no.66  Gulistan e Johar khr	Fsc
+4942	Ghulam Yasin Fakhar	11-Aug-83	M	25-Aug-02	Ho. No.242 St. no.61  Kachi abadi Lyyah	A level
+4943	Waqar Zubair	13-May-83	M	28-Aug-02	H No.788 S No.24  Sukkhan abad Wahari	HSSC
+4944	Nimra Sattar Awan	14-Jan-83	F	2-Aug-02	Ho. no. 103 Street No. 20 New Clifton Khr	A level
+4945	Raja Bulbul Haqq	16-Feb-83	M	5-Aug-02	h no. 417 St. No. 15 Ghosia masjid chwok Quetta	HSSC
+4946	Soneel Awan	18-Oct-82	M	9-Aug-02	House #  964 st. #  10 Main sadar karachi	FSc
+4947	Huma Namani	18-Jun-82	F	12-Aug-02	H#  278 S#  74 Kashmir block gulshan iqbal KHR	A-Level
+4948	Zabir Munnawar	20-Jul-82	M	15-Aug-02	house #  593 street no. 69 Darian Sibbi	FSc
+4949	Haroon Namani	20-Mar-82	M	18-Aug-02	h#  140 Street #  64 Zeeshan coloney Township KHR	A-Level
+4950	Ch. Siraj Khanzada	23-Dec-84	M	22-Aug-02	Ho. # 454 s# 60  Jail road khr	Fsc
+4951	Ch. Zishan Qureshi	23-Dec-84	M	25-Aug-02	house no.769 s# 23  post office Wahari	F.Sc.
+4952	Daniyal Laghari	25-Aug-84	M	28-Aug-02	ho. # 315 St. no.18  Biyaal Sibbi	Fsc
+4953	Ch. Abdul Haseeb Paracha	25-May-83	M	3-Aug-02	Ho. No.630 S No.14  Sadiq Abad Khr	A level
+4954	Sitara Haque	27-May-83	F	6-Aug-02	H No.944 S No.9  Yaseen chowk KARACHI	HSSC
+4955	Munir Farman	27-Feb-83	M	9-Aug-02	Ho. no.259 St. No.72  Shehar bazar Wahari	A level
+4956	Aslam Hamid Zaidi	1-Oct-83	M	12-Aug-02	h no. 806 st. #  68 Green town KARACHI	HSSC
+4957	Tamania Butt	3-Nov-82	F	16-Aug-02	House #  120 s no. 63 Bara bazar Thata	FSc
+4958	Jameel Zaidi	3-Jul-82	M	19-Aug-02	H#  435 street no. 58 Jamia masjid chowk Lyyah	A-Level
+4959	Nadia Mouhammad Ahsan Kharasani	5-Mar-82	F	22-Aug-02	house #  981 Street #  21 Dubai town karachi	FSc
+4960	Zafar Junaid	5-Apr-82	M	25-Aug-02	h#  296 St. #  17 Afangi block Sibbi	A-Level
+4961	Akmal Kharasani	7-Dec-84	M	29-Aug-02	Ho. #  610 s#  12 Tariq road khr	Fsc
+4962	Shaheen Bhatti	8-Sep-84	F	3-Aug-02	house no.157 street # 75  Samanabad Karachi	F.Sc.
+4963	Pervaiz Salim Laghari	10-Sep-84	M	6-Aug-02	ho. # 472 street # 71  Shah malung Wahari	Fsc
+4964	Abdul Suleh Bhatti	10-May-84	M	9-Aug-02	House No.786 S No.66  Kashmir block gulshan iqbal Karachi	F.Sc.
+4965	Saba Mustafa	12-Feb-83	F	13-Aug-02	H No.333 St. No.61   Thata	HSSC
+4966	Ibraheem Ahsan	12-Feb-83	M	16-Aug-02	Ho. no.647 St. No.25  Akbar masjid Lyyah	A level
+4967	Shabeer Shah	15-Nov-83	M	19-Aug-02	h no. 962 s no. 20 Jail road KARACHI	HSSC
+4968	Zeba Butt	17-Jul-82	F	23-Aug-02	House #  509 street no. 15 Jalabad Chishtian	FSc
+4969	Munir Aftab Abbasi	17-Jul-82	M	26-Aug-02	H#  823 street no. 11 Sherazia coloney Thata	A-Level
+4970	Annum Durrani	19-Apr-82	F	29-Aug-02	house #  138 St. #  74 Sadiq Abad karachi	FSc
+4971	Naeem Ikram	19-Dec-82	M	3-Aug-02	h#  684 s#  69 Sukkhan abad Wahari	A-Level
+4972	Abdul Hannan Gondal	21-Jan-84	M	7-Aug-02	Ho. #  999 Street No. 65  khr	Fsc
+4973	Wajiha Najam Ansary	22-Sep-84	F	10-Aug-02	house no.313 street # 60  New air port Karachi	F.Sc.
+4974	Hafiz Abdur Rahim Satti	24-May-84	M	13-Aug-02	ho. # 628 S No.23  Park road Lyyah	Fsc
+4975	Aun Bhatti	24-Jun-84	M	16-Aug-02	House No.175 S# 18  Kishwar heights university road Karachi	F.Sc.
+4976	Rehana Latif	26-Feb-83	F	20-Aug-02	H No.489 St. No.14  Landi Chishtian	HSSC
+4977	Bulbul Zulfiqar	26-Nov-83	M	23-Aug-02	Ho. no.804 s no.77  Taj abad Thata	A level
+4978	Shakir Shah	28-Nov-83	M	26-Aug-02	h no.350 s no.72  Tariq road KARACHI	HSSC
+4979	Jabeen Chohan	2-Jul-83	F	29-Aug-02	Ho. No. 665 street no. 68 post office Wahari	A level
+4980	Sheikh Suleman Shah	2-Apr-82	M	4-Aug-02	H#  979 St. #  63 PRC coloney KHR	A-Level
+4981	Atra Mirza Kareem Durrani	4-Apr-82	F	7-Aug-02	house #  526 St. #  26 Kasmmir market Gulshan-e-Iqbal karachi	FSc
+4982	Ahmed Abdul Hameed	4-Jan-82	M	10-Aug-02	h#  841 Street No. 22 Karkhana road Lyyah	A-Level
+4983	Mohammad Saroor Durrani	6-Sep-84	M	14-Aug-02	Ho. #  155 street #  17 Gulzar-e-Quaid khr	Fsc
+4984	Atra Ansari	6-Sep-84	F	17-Aug-02	house no. 702 street #  12 Sukkan nala malir cantt Karachi	F.Sc.
+4985	Waqar Gondal	9-Jun-84	M	20-Aug-02	ho. # 16 S# 76  Bara bazar Thata	Fsc
+4986	Barkat Akmal Ansari	9-Feb-84	M	23-Aug-02	House No.331 St. No.71  Tool factory coloney Karachi	F.Sc.
+4987	Mehak Abdus Sammi	11-Mar-83	F	27-Aug-02	H No.877 Street # 66  Niazi town Sadiqabad	HSSC
+4988	Pervaiz Fakhir	11-Nov-83	M	1-Aug-02	Ho. no.192 s no.62  Shuakat coloney Chishtian	A level
+4989	Sheikh Abdur Rahim Sehti	13-Aug-83	M	4-Aug-02	h no.507 St. no.25   KARACHI	HSSC
+4990	Maryyum Chohan	15-Aug-83	F	7-Aug-02	Ho. No.53 St. no.20  Hamdarad road Lyyah	A level
+4991	Chodhary Kareem Baig	16-Apr-82	M	11-Aug-02	H#  368 St. #  15 Gulistan coloney KHR	A-Level
+4992	Rukshanda Mohammed Masud Chatta	18-Jan-82	F	14-Aug-02	house #  682 Street No. 79 Amer Villas university road karachi	FSc
+4993	Mahtab Ehsan	18-Jan-82	M	17-Aug-02	h#  997 Street No. 74  Thata	A-Level
+4994	Farman Jameel Khan	20-Oct-82	M	20-Aug-02	House #  543 st. #  69 Defense Phase 1 karachi	FSc
+4995	Aaila Jaffery	20-Jun-84	F	24-Aug-02	house no. 858 S#  65 Bakra mandi Sadiqabad	F.Sc.
+4996	Bakht Ali Khattak	22-Jun-84	M	27-Aug-02	ho. #  173 S#  28 Jalabad Chishtian	Fsc
+4997	Muazzam Minhas	23-Mar-84	M	1-Aug-02	House No.719 Street # 23  PRC coloney Karachi	F.Sc.
+4998	Bano AAqil	25-Nov-84	F	4-Aug-02	Ho. # 34 s no.19  Kachi abadi Lyyah	Fsc
+4999	Usman Mustafa	25-Aug-83	M	8-Aug-02	Ho. no.348 St. no.14  Pakistan hostel Sadiqabad	A level
+5000	Tabraiz Hayyat Sehti	27-Aug-83	M	11-Aug-02	h no.895 St. no.77  Gulzar-e-Quaid KARACHI	HSSC

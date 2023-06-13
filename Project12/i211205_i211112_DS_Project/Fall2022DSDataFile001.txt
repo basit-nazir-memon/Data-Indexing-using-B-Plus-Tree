@@ -1,0 +1,101 @@
+0	Hussain Ansary	5-Jan-74	M	13-Aug-94	h# 978 Street No.72  Defense Phase 1 KHR	A-Level
+1	Shk. Munir Hussaini	13-Dec-74	M	13-Aug-94	H#  169 s#  0 Mutian wala Thata	A-Level
+2	Moeena Momd. Uhad Haque	13-Sep-76	F	17-Aug-94	ho. #  484 street #  95 Lalu khait khr	Fsc
+3	Zeeshan Mustamsir	15-Sep-76	M	20-Aug-94	House No. 31 street #  91 Dak ghar Sadiqabad	F.Sc.
+4	Sheik Ghazi Haque	16-Jun-76	M	23-Aug-94	Ho. # 345 S# 86   khr	Fsc
+5	Midhat Momin Butt	18-Feb-76	F	26-Aug-94	house no.660 St. No.49  Kala pul Karachi	F.Sc.
+6	Sharif Murtaza Zaidi	18-Feb-75	M	1-Aug-94	h no.206 St. No.45  Mujahid block Usman Kot	HSSC
+7	Mouhammed Ibraheem Butt	20-Nov-75	M	4-Aug-94	Ho. No.521 s no.40  Liaqat abad Khr	A level
+8	Eman Shujaat	22-Jul-75	F	7-Aug-94	H No.835 street no.3  Jalabad Chishtian	HSSC
+9	Abdur Raziq Mujahid	22-Aug-74	M	11-Aug-94	house # 382 St. no.98  Kamra chowk Karachi	FSc
+10	Hamna Ansary	25-Apr-74	F	14-Aug-94	h#  697 St. #  94 sea site KHR	A-Level
+11	Mohammad Hayyat Laghari	25-Jan-74	M	17-Aug-94	House #  11 Street No. 89 Pakistan hostel Sadiqabad	FSc
+12	Mukhtar Bhatti	27-Jan-74	M	20-Aug-94	H#  558 Street No. 52 Dhamiyal Chishtian	A-Level
+13	Sundas Laghari	27-Sep-76	F	24-Aug-94	ho. #  872 street #  48 Mazar e Quaid khr	Fsc
+14	Obaid Asif	29-Jun-76	M	27-Aug-94	House No. 187 S#  43 Hospital road Usman Kot	F.Sc.
+15	Rohail Shabi Shah	29-Jun-76	M	1-Aug-94	Ho. #  501 S#  38 Bander road khr	Fsc
+16	Kalsoom Pasha	3-Mar-76	F	4-Aug-94	house no.48 Street # 2  Landhi Karachi	F.Sc.
+17	Anjum Mujtaba Shah	3-Nov-75	M	8-Aug-94	h no.363 s no.97  Bhatta Karachi	HSSC
+18	AAmir Butt	5-Nov-75	M	11-Aug-94	Ho. No.677 s no.92  Defense phase III Khr	A level
+19	Kishwar Adul Qudoos	7-Aug-75	F	14-Aug-94	H No.224 St. no.88  Jalsa gha Sadiqabad	HSSC
+20	Amjad Abdullah	7-Apr-75	M	17-Aug-94	Ho. no.538 St. # 51  Karnianwala Chishtian	A level
+21	Mahreen Ansary	9-May-74	F	21-Aug-94	h# 853 S No.46  Green town KHR	A-Level
+22	M. Sana Ullah Gondal	10-Jan-74	M	24-Aug-94	House #  399 Street No. 42 Factory road Usman Kot	FSc
+23	Niaz Aslam Ansary	12-Sep-74	M	27-Aug-94	H#  714 street #  5 Gulistan e Johar KHR	A-Level
+24	Roohi Satti	12-Oct-74	F	1-Aug-94	house #  29 st. #  0 Liaqat abad karachi	FSc
+25	Zabir Niaz	14-Jun-76	M	5-Aug-94	House No. 575 S#  95 Pind dadu Karachi	F.Sc.
+26	Abdus Sattar Satti	14-Mar-76	M	8-Aug-94	Ho. #  890 Street #  91 New Clifton khr	Fsc
+27	Bisma Chohan	16-Mar-76	F	11-Aug-94	house no. 204 Street #  54 sea site Karachi	F.Sc.
+28	Rana Muzammil Shah	17-Nov-75	M	15-Aug-94	h no.751 s no.49  Haider road Multan	HSSC
+29	Munnawar Chohan	19-Aug-75	M	18-Aug-94	Ho. No.65 St. no.45  Kashmir block gulshan iqbal Khr	A level
+30	Sultana Momin	21-Aug-75	F	21-Aug-94	H No.380 St. no.40  Buliyan wali Usman Kot	HSSC
+31	Shahid Tanveer	21-May-75	M	24-Aug-94	Ho. no.927 S No.3  Dak ghar Sadiqabad	A level
+32	Hira Alam Jaffery	23-Jan-74	F	28-Aug-94	h# 241 Street No.99  Jail road KHR	A-Level
+33	Azmat Gondal	24-Jan-74	M	2-Aug-94	House #  556 Street No. 94 Chandi bazar Karachi	FSc
+34	Momd. Mustansar Ansari	26-Oct-74	M	5-Aug-94	H#  870 st. #  89 Jam kand KHR	A-Level
+35	Hina Gondal	26-Jun-74	F	8-Aug-94	house #  417 S#  53 Defense phase III karachi	FSc
+36	Nadia Umar	28-Jul-76	F	12-Aug-94	House No. 731 street no. 48 Odean chowk Multan	F.Sc.
+37	Haseeb Chatta	28-Mar-76	M	15-Aug-94	Ho. #  46 Street #  43  khr	Fsc
+38	Rozina Kazmi	1-Nov-76	F	18-Aug-94	house no. 593 s no. 7 Green town Karachi	F.Sc.
+39	Raja Inayyat Khan	2-Dec-76	M	21-Aug-94	ho. # 907 s# 2  Pakistan hostel Sadiqabad	Fsc
+40	Kalim Kazmi	4-Aug-75	M	25-Aug-94	Ho. No.222 St. no.97  Kishwar heights university road Khr	A level
+41	Hamna Muslim	6-May-75	F	28-Aug-94	H No.768 S No.92  Khumar road Karachi	HSSC
+42	Abdul kareem Tanvir	6-May-75	M	2-Aug-94	Ho. no.83 S No.56  Hospital road Usman Kot	A level
+43	Viqar-ul-Islam Niaz Niazi	8-Feb-74	M	6-Aug-94	h# 397 St. No.51  Tariq road KHR	A-Level
+44	Bilqees Annan AAmir Haq	8-Oct-74	F	9-Aug-94	House # 944 st. # 46  Kusar coloney Multan	FSc
+45	Usman Abdus Sattar Awan	11-Jun-74	M	12-Aug-94	H#  259 S#  42 Bhatta Karachi	A-Level
+46	Najum Haq	11-Jul-74	M	15-Aug-94	house #  573 street no. 5 Kashmir block gulshan iqbal karachi	FSc
+47	Asma Muzammil	13-Mar-76	F	19-Aug-94	House No. 120 Street #  0 Eid gha Mirpur Khas	F.Sc.
+48	Usman Namani	13-Dec-76	M	22-Aug-94	Ho. #  434 s#  96 yadgaar khr	Fsc
+49	Sidra Kiyyani	15-Dec-76	F	25-Aug-94	house no. 749 s#  91 Jail road Karachi	F.Sc.
+50	Rehmat Qureshi	15-Aug-76	M	28-Aug-94	ho. #  296 St. no. 54 Factory road Usman Kot	Fsc
+51	Qasim Wajid Kazmi	18-May-75	M	3-Aug-94	Ho. No.610 S No.50  Tool factory coloney Khr	A level
+52	Saima Rabbi	18-May-75	F	6-Aug-94	H No.925 S No.45  Nai abadi Multan	HSSC
+53	Abdullah Rahat	20-Feb-75	M	9-Aug-94	Ho. no.239 St. No.8  Pind dadu Karachi	A level
+54	Nadeem Niazi	22-Oct-75	M	12-Aug-94	h no.786 st. # 4   KARACHI	HSSC
+55	Sehar Zarar Ghani Ismaili	22-Oct-74	F	16-Aug-94	House # 100 st. # 99  Daniyaal town Mirpur Khas	FSc
+56	Ajab Awan	24-Jul-74	M	19-Aug-94	H# 415 street no.94  Gulshan Iqbal KHR	A-Level
+57	Moeen Haqq	25-Mar-74	M	22-Aug-94	house #  962 Street #  58 Kishwar heights university road karachi	FSc
+58	Amina Azmat	27-Apr-76	F	26-Aug-94	House No. 276 St. #  53 Doley shah Umer Kot	F.Sc.
+59	Mouhammed Kishwar Namani	27-Dec-76	M	29-Aug-94	Ho. #  591 s#  48 Defense Phase 1 khr	Fsc
+60	Asia Qamar Sherazi	29-Aug-76	F	3-Aug-94	house no. 137 St. no. 43 Tariq road Karachi	F.Sc.
+61	Osama Namani	29-Sep-76	M	6-Aug-94	ho. #  452 street #  7 Chandi bazar Karachi	Fsc
+62	Nawabzada Zafar Sherazi	2-May-75	M	10-Aug-94	Ho. No. 766 S No. 2 PRC coloney Khr	A level
+63	Durdana Mahtab	3-Feb-75	F	13-Aug-94	H No.313 St. No.97  Chittian hattian Mirpur Khas	HSSC
+64	Kashif Abdus Sattar	5-Feb-75	M	16-Aug-94	Ho. no.628 St. No.93  Odean chowk Multan	A level
+65	Muaz Usmani	7-Oct-75	M	19-Aug-94	h no.942 st. # 56  yadgaar KARACHI	HSSC
+66	Mahnoor Ismaili	7-Jul-74	F	23-Aug-94	House # 489 street no.51  Mitran walia Umer Kot	FSc
+67	Hayyat Hussaini	9-Jul-74	M	26-Aug-94	H# 803 street no.47  Goth jumman KHR	A-Level
+68	Aga Mukhtar Ismaili	10-Apr-74	M	29-Aug-94	house #  118 St. #  42 Tool factory coloney karachi	FSc
+69	Rubina Haroon	12-Dec-74	F	3-Aug-94	h#  432 s#  5 Khumar road Karachi	A-Level
+70	Zulfiqar Zubair Haque	12-Jan-76	M	7-Aug-94	Ho. #  979 Street No. 1 Sultana abad khr	Fsc
+71	Abdul Mannan Paracha	14-Sep-76	M	10-Aug-94	house no. 294 street #  96 City Road Mirpur Khas	F.Sc.
+72	Sh. Uhad Zaidi	14-May-76	M	13-Aug-94	ho. #  608 S No. 59 Kusar coloney Multan	Fsc
+73	Farzan Sherazi	16-Jun-75	M	17-Aug-94	Ho. No. 155 S#  55 Gulistan coloney Khr	A level
+74	Nabeera Iqbal	17-Feb-75	F	20-Aug-94	H No.469 St. No.50  Bunkhar gali Umer Kot	HSSC
+75	Zeeshan Faisal	19-Nov-75	M	23-Aug-94	Ho. no.784 s no.45  Eid gha Mirpur Khas	A level
+76	Mohammad Haseen Usmani	21-Nov-75	M	26-Aug-94	h no.330 s no.8  Defense Phase 1 KARACHI	HSSC
+77	Bushra Kharasani	21-Jul-74	F	1-Aug-94	House # 645 street no.4  Lakhan Hyderabad	FSc
+78	Amjad Sattar Hussaini	23-Apr-74	M	4-Aug-94	H# 960 St. # 99  Service road KHR	A-Level
+79	Jabbar Laghari	23-Apr-74	M	7-Aug-94	house # 506 St. # 94  PRC coloney karachi	FSc
+80	Urooj AAmir	26-Jan-74	F	10-Aug-94	h#  821 Street No. 58 Nai abadi Multan	A-Level
+81	Ali Adnan Haque	26-Sep-76	M	14-Aug-94	Ho. #  135 street #  53 Asif abad khr	Fsc
+82	Najum Mustamsir Pasha	28-Sep-76	M	17-Aug-94	house no. 682 street #  48 Koral Umer Kot	F.Sc.
+83	Agha Sikandar Haque	28-Jun-76	M	20-Aug-94	ho. #  996 S#  44 Daniyaal town Mirpur Khas	Fsc
+84	Mudassir Osman Butt	1-Feb-76	M	23-Aug-94	House No. 311 St. No. 7 Goth jumman Karachi	F.Sc.
+85	Rida Barkat	1-Mar-75	F	27-Aug-94	H No. 858 Street #  2 Byaar Hyderabad	HSSC
+86	Shk. Muneer Butt	4-Nov-75	M	1-Aug-94	Ho. no.172 s no.98  Pwd Coloney Khr	A level
+87	Fariha Ramzan	6-Jul-75	F	4-Aug-94	h no.487 street no.61  Railway line Mirpur Khas	HSSC
+88	Mouhammed Azmat Satti	6-Aug-75	M	7-Aug-94	Ho. No.801 St. no.56   Khr	A level
+89	Masud Haqqie	8-Apr-74	M	11-Aug-94	H# 348 St. # 52  Kotlia Hyderabad	A-Level
+90	Mahtara Aga Adil Shah	8-Jan-74	F	14-Aug-94	house # 662 Street No.47  Gulistan coloney karachi	FSc
+91	Sh. Zubair Chohan	10-Jan-74	M	17-Aug-94	h# 977 Street No.10  Amer Villas university road KHR	A-Level
+92	Irum Asif	11-Sep-76	F	21-Aug-94	Ho. #  524 street #  5 Surahi bazar Quetta	Fsc
+93	Najum Uhad Durrani	13-Jun-76	M	24-Aug-94	house no. 838 S#  1 Race course road Karachi	F.Sc.
+94	Nawabzada Saroor Jaffery	13-Jun-76	M	27-Aug-94	ho. #  153 S#  96 GPO colony khr	Fsc
+95	Rizwana Durrani	15-Mar-76	F	1-Aug-94	House No. 699 Street #  59 Chand mari Mirpur Khas	F.Sc.
+96	Ahsan Ansari	15-Nov-75	M	5-Aug-94	H No. 14 s no. 55 Zeenat block KARACHI	HSSC
+97	Tufail Noor	17-Nov-75	M	8-Aug-94	Ho. no. 329 s no. 50 Kamalia Hyderabad	A level
+98	Rashda Tahir	20-Aug-75	F	11-Aug-94	h no.875 St. no.45  Purani Taal Umer Kot	HSSC
+99	Javed Arshad Sehti	20-Apr-75	M	14-Aug-94	Ho. No.190 St. # 9  Gulzar-e-Quaid Khr	A level
+100	Jabbar Haqqie	22-May-74	M	18-Aug-94	H# 504 S No.4  Kumria Quetta	A-Level
